@@ -11,7 +11,7 @@ A computational framework that combines causal gene discovery with clinical know
 
 ## 🎯 Overview
 
-![SPLIT Framework Workflow](Workflow_final.png)
+![SPLIT Framework Workflow](Workflow.png)
 
 **SPLIT** addresses a critical gap in drug repurposing: rather than simply ranking candidates by predicted efficacy, we prioritize **safety-first deprioritization**—systematically identifying drugs with unacceptable risk-benefit profiles before they enter costly clinical trials.
 
