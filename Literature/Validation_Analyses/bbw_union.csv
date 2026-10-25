@@ -1,0 +1,1203 @@
+drug,black_box_warnings,approval_status,approved_indications
+Pazopanib,Has black box warning (see FDA label),4.0,"Neoplasms; Colorectal Neoplasms; Carcinoma, Renal Cell"
+Riociguat,Has black box warning (see FDA label),4.0,"Hypertension, Pulmonary; Hypertension; Scleroderma, Systemic"
+Selexipag,None reported,4.0,Thrombosis; Pulmonary Arterial Hypertension; Familial Primary Pulmonary Hypertension
+Azacitidine,None reported,4.0,"Leukemia, Myeloid, Acute; Myelodysplastic Syndromes; Carcinoma, Non-Small-Cell Lung"
+Decitabine,None reported,4.0,"Leukemia, Myeloid, Acute; Myelodysplastic Syndromes; Leukemia"
+Cobimetinib,None reported,Unknown,
+Carfilzomib,None reported,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma; Multiple Myeloma; Leukemia
+Selumetinib,None reported,4.0,Pancreatic Neoplasms; Melanoma; Astrocytoma
+Lenvatinib,None reported,4.0,"Neoplasms; Liver Diseases; Carcinoma, Non-Small-Cell Lung"
+Ixazomib,None reported,4.0,Multiple Myeloma; Lymphoma; Glioblastoma
+Pomalidomide,Has black box warning (see FDA label),4.0,"Myeloproliferative Disorders; Immune System Diseases; Scleroderma, Systemic"
+Momelotinib,None reported,4.0,"Thrombocythemia, Essential; Polycythemia Vera; Primary Myelofibrosis"
+Binimetinib,None reported,4.0,Cardiomegaly; Melanoma; Melanoma
+Tazemetostat,None reported,4.0,"Sarcoma; Lymphoma, Follicular; Small Cell Lung Carcinoma"
+Gilteritinib,Has black box warning (see FDA label),4.0,"Neoplasms; Leukemia, Myeloid, Acute; Liver Diseases"
+Encorafenib,None reported,Unknown,
+Trametinib,None reported,4.0,"Neoplasms; Leukemia, Myeloid, Acute; Carcinoma, Non-Small-Cell Lung"
+Olaparib,None reported,4.0,Neoplasms; Ovarian Neoplasms; Prostatic Neoplasms
+Axitinib,None reported,4.0,"Neoplasms; Carcinoma, Renal Cell; Carcinoma, Adenoid Cystic"
+Ruxolitinib,None reported,Unknown,
+Infigratinib,None reported,4.0,Glioblastoma; Neoplasms; Melanoma
+Regorafenib,Has black box warning (see FDA label),4.0,"Colorectal Neoplasms; Carcinoma, Adenoid Cystic; Bile Duct Neoplasms"
+Capivasertib,None reported,4.0,Adenocarcinoma; Stomach Neoplasms; Neoplasms
+Midostaurin,None reported,4.0,"Leukemia, Myeloid, Acute; Leukemia; Liver Diseases"
+Ponatinib,Has black box warning (see FDA label),4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Precursor Cell Lymphoblastic Leukemia-Lymphoma; Leukemia, Myeloid, Acute"
+Lorlatinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Neuroblastoma; Neoplasms"
+Capmatinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung"
+Ibrutinib,None reported,4.0,Liver Diseases; Neoplasms; Lymphoma
+Sunitinib,None reported,Unknown,
+Cabozantinib,Has black box warning (see FDA label),4.0,"Neoplasms; Carcinoma, Renal Cell; Prostatic Neoplasms"
+Acalabrutinib,None reported,Unknown,
+Rucaparib,None reported,4.0,Neoplasms; Pancreatic Neoplasms; Hereditary Breast and Ovarian Cancer Syndrome
+Entrectinib,None reported,4.0,Neoplasms; Glioma; Melanoma
+Zanubrutinib,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Lymphoma, Follicular; Lymphoma, Large B-Cell, Diffuse"
+Everolimus,Has black box warning (see FDA label),4.0,"Acute Coronary Syndrome; Carcinoma, Adenoid Cystic; Breast Neoplasms"
+Enasidenib,Has black box warning (see FDA label),4.0,"Myelodysplastic Syndromes; Leukemia, Myeloid, Acute; Leukemia"
+Pexidartinib,Has black box warning (see FDA label),4.0,Giant Cell Tumor of Tendon Sheath
+Ribociclib,None reported,4.0,Lymphoma; Melanoma; Glioblastoma
+Quizartinib,Has black box warning (see FDA label),4.0,"Leukemia, Myeloid, Acute; Neoplasms; Liver Diseases"
+Niraparib,None reported,4.0,Ovarian Neoplasms; Neoplasms; Prostatic Neoplasms
+Pacritinib,None reported,Unknown,
+Venetoclax,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Multiple Myeloma; Lymphoma, Non-Hodgkin"
+Temsirolimus,None reported,4.0,"Lymphoma; Myelodysplastic Syndromes; Carcinoma, Renal Cell"
+Fedratinib,Has black box warning (see FDA label),4.0,Primary Myelofibrosis; Primary Myelofibrosis; Myeloproliferative Disorders
+Vemurafenib,None reported,4.0,Melanoma; Melanoma; Multiple Myeloma
+Avatrombopag,None reported,4.0,"Liver Diseases; Purpura, Thrombocytopenic, Idiopathic; Thrombocytopenia"
+Dabrafenib,None reported,4.0,Neoplasms; Melanoma; Liver Diseases
+Ivosidenib,Has black box warning (see FDA label),4.0,"Leukemia, Myeloid, Acute; Liver Diseases; Cholangiocarcinoma"
+Tafamidis,None reported,4.0,"Cardiomyopathies; Amyloidosis; Amyloid Neuropathies, Familial"
+Duvelisib,None reported,Unknown,
+Osimertinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Lung Neoplasms"
+Tivozanib,None reported,4.0,"Neoplasms; Carcinoma, Hepatocellular; Carcinoma, Renal Cell"
+Crizotinib,None reported,4.0,"Glioblastoma; Carcinoma, Non-Small-Cell Lung; Neoplasms"
+Selinexor,None reported,4.0,Melanoma; Liposarcoma; Myelodysplastic Syndromes
+Alectinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Liver Diseases; Neoplasms"
+Alpelisib,None reported,4.0,"Breast Neoplasms; Carcinoma, Squamous Cell; Neoplasms"
+Sonidegib,Has black box warning (see FDA label),4.0,Breast Neoplasms; Neoplasms; Liver Diseases
+Ceritinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Neoplasms; Lymphoma, Large-Cell, Anaplastic"
+Pemigatinib,None reported,4.0,Neoplasms; Urogenital Neoplasms; Myeloproliferative Disorders
+Erdafitinib,None reported,4.0,"Neoplasms; Carcinoma, Hepatocellular; Lymphoma"
+Vismodegib,Has black box warning (see FDA label),4.0,"Carcinoma, Basal Cell; Medulloblastoma; Neoplasms"
+Copanlisib,None reported,4.0,"Lymphoma, Mantle-Cell; Lymphoma, Non-Hodgkin; Lymphoma, Large B-Cell, Diffuse"
+Palbociclib,None reported,2.0,Neoplasms
+Macitentan,Has black box warning (see FDA label),4.0,"Hypertension, Pulmonary; Idiopathic Pulmonary Fibrosis; Scleroderma, Systemic"
+Sorafenib,None reported,4.0,"Carcinoma, Hepatocellular; Neoplasms; Small Cell Lung Carcinoma"
+Brigatinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Neoplasms; Lymphoma, Large-Cell, Anaplastic"
+Idelalisib,None reported,Unknown,
+Abemaciclib,None reported,4.0,"Lymphoma, Mantle-Cell; Neoplasms; Carcinoma, Non-Small-Cell Lung"
+Deferiprone,Has black box warning (see FDA label),4.0,HIV Infections; Acute Kidney Injury; Hemochromatosis
+Dacomitinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Neoplasms"
+Enzalutamide,None reported,4.0,Prostatic Neoplasms; Prostatic Neoplasms; Prostatic Neoplasms
+Phensuximide,None reported,4.0,Epilepsy
+Migalastat,None reported,4.0,Fabry Disease
+Romidepsin,None reported,4.0,"Lymphoma, T-Cell, Cutaneous; Lymphoma, T-Cell, Peripheral; Neoplasms"
+Belinostat,None reported,4.0,"Lymphoma, T-Cell, Peripheral; Neoplasms; Leukemia, Myeloid, Acute"
+Sulthiame,None reported,3.0,"Epilepsy; Sleep Apnea, Obstructive"
+Omacetaxine_mepesucc,None reported,4.0,"Neoplasms; Leukemia; Leukemia, Myeloid, Acute"
+Rufinamide,None reported,4.0,Seizures; Epilepsy; Pain
+Tofacitinib,Has black box warning (see FDA label),4.0,"Arthritis, Rheumatoid; Lupus Erythematosus, Discoid; Arthritis, Psoriatic"
+Bosutinib,None reported,4.0,"Leukemia, Myeloid, Acute; Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Leukemia, Myeloid"
+Roxadustat,None reported,4.0,Anemia; Myelodysplastic Syndromes; Kidney Diseases
+Tucatinib,None reported,4.0,Liver Diseases; Hemangiosarcoma; Breast Neoplasms
+Edaravone,None reported,4.0,Stroke; Liver Diseases; Kidney Diseases
+Vorinostat,None reported,4.0,"HIV Infections; Multiple Myeloma; Carcinoma, Non-Small-Cell Lung"
+Flucytosine,Has black box warning (see FDA label),4.0,"Carcinoma, Hepatocellular; Infections; Astrocytoma"
+Dasatinib,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Leukemia; Multiple Myeloma"
+Olmutinib,None reported,4.0,"Neoplasms; Carcinoma, Non-Small-Cell Lung"
+Nintedanib,None reported,4.0,"Neoplasms; Carcinoma, Renal Cell; Scleroderma, Systemic"
+Posaconazole,None reported,4.0,"Aspergillosis; Neoplasms; Leukemia, Myeloid, Acute"
+Lenalidomide,Has black box warning (see FDA label),4.0,"Lymphoma, Mantle-Cell; Cachexia; Immune System Diseases"
+Bortezomib,None reported,3.0,
+Boceprevir,None reported,Unknown,
+Phenethyl_Isothiocya,None reported,Unknown,
+Palonosetron,None reported,4.0,Neoplasms; Melanoma; Multiple Myeloma
+Degarelix,None reported,4.0,Neoplasms; Endometriosis; Prostatic Neoplasms
+Ruboxistaurin,None reported,3.0,Diabetic Retinopathy; Diabetes Mellitus; Heart Failure
+Afatinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Multiple Myeloma"
+Bisindolylmaleimide_,None reported,Unknown,
+Vandetanib,None reported,Unknown,
+Apixaban,Has black box warning (see FDA label),4.0,Atrial Fibrillation; Stroke; Venous Thrombosis
+Procainamide,Has black box warning (see FDA label),4.0,"Atrial Fibrillation; Heart Failure; Arrhythmias, Cardiac"
+Pasireotide,None reported,Unknown,
+Staurosporine,None reported,Unknown,
+Vorapaxar,Has black box warning (see FDA label),4.0,Thrombosis; HIV Infections; Cerebral Infarction
+Irinotecan,Has black box warning (see FDA label),4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Hodgkin Disease; Rhabdomyosarcoma, Alveolar"
+Sirolimus,None reported,Unknown,
+Abiraterone,None reported,4.0,Prostatic Neoplasms; Prostatic Neoplasms; Prostatic Neoplasms
+Isoconazole,None reported,2.0,
+Telaprevir,Has black box warning (see FDA label),4.0,"Liver Diseases; Hepatitis C; Hepatitis C, Chronic"
+Neratinib,None reported,4.0,Breast Neoplasms; Breast Neoplasms; Neoplasms
+Tipranavir,Has black box warning (see FDA label),4.0,HIV Infections; Virus Diseases; Hemorrhage
+Tadalafil,None reported,4.0,"Prostatic Hyperplasia; Erectile Dysfunction; Hypertension, Pulmonary"
+Idebenone,None reported,4.0,"MELAS Syndrome; Multiple Sclerosis, Chronic Progressive; Attention Deficit Disorder with Hyperactivity"
+Clofarabine,None reported,4.0,"Leukemia; Myelodysplastic Syndromes; Leukemia, Myeloid, Acute"
+Carboplatin,Has black box warning (see FDA label),4.0,Ovarian Neoplasms; Ependymoma; Breast Neoplasms
+Paclitaxel,Has black box warning (see FDA label),4.0,Breast Neoplasms; Stomach Neoplasms; Stomach Neoplasms
+Erlotinib,None reported,4.0,"Breast Neoplasms; Carcinoma, Squamous Cell; Carcinoma, Non-Small-Cell Lung"
+Vardenafil,None reported,Unknown,
+Ketoconazole,Has black box warning (see FDA label),4.0,Cushing Syndrome; Pituitary ACTH Hypersecretion; Adrenocortical Hyperfunction
+Isoflurophate,None reported,4.0,Glaucoma
+Miltefosine,Has black box warning (see FDA label),4.0,"Leishmaniasis; Leishmaniasis, Visceral; Leishmaniasis, Cutaneous"
+Moxifloxacin,Has black box warning (see FDA label),4.0,"Conjunctivitis, Bacterial; Infections; Osteomyelitis"
+Lapatinib,Has black box warning (see FDA label),4.0,"Neoplasms; Carcinoma, Squamous Cell; Breast Neoplasms"
+Nafcillin,None reported,4.0,Osteomyelitis; Infections
+Amifostine,None reported,4.0,Myelodysplastic Syndromes; Prostatic Neoplasms; Trigeminal Neuralgia
+Nicorandil,None reported,3.0,Cardiovascular Diseases; Myocardial Infarction; Dementia
+Econazole,None reported,4.0,Tinea Pedis
+Isradipine,None reported,4.0,Cardiovascular Diseases; Opioid-Related Disorders; Hypertension
+Copper,None reported,4.0,"Vaginosis, Bacterial; Glioblastoma; Breast Neoplasms"
+Tranexamic_acid,None reported,4.0,Hemorrhage; Hip Fractures; Gastrointestinal Hemorrhage
+Cilostazol,Has black box warning (see FDA label),4.0,Intermittent Claudication; Cardiovascular Diseases; Thrombosis
+Streptomycin,Has black box warning (see FDA label),4.0,Granuloma Inguinale; Tularemia; Urinary Tract Infections
+Malathion,None reported,4.0,Ectoparasitic Infestations; Lice Infestations
+Lovastatin,None reported,-1.0,
+Uridine_triacetate,None reported,4.0,Neoplasms; Pancreatic Neoplasms; Stomach Neoplasms
+Bivalirudin,None reported,4.0,Myocardial Infarction; Acute Coronary Syndrome; Hemorrhage
+Phylloquinone,Has black box warning (see FDA label),4.0,"Osteoporosis, Postmenopausal; Cardiovascular Diseases; Osteoporosis"
+Trimetazidine,None reported,3.0,"Cardiovascular Diseases; Cardiomyopathy, Hypertrophic; Hypertension, Pulmonary"
+Varenicline,None reported,4.0,Lung Neoplasms; Cocaine-Related Disorders; Tobacco Use Disorder
+Memantine,None reported,4.0,"Child Development Disorders, Pervasive; Tobacco Use Disorder; Autistic Disorder"
+Regadenoson,None reported,4.0,Cardiovascular Diseases; Myocardial Perfusion Imaging
+Rosuvastatin,None reported,4.0,Lipid Metabolism Disorders; Hypercholesterolemia; Hyperlipoproteinemia Type II
+Streptozocin,Has black box warning (see FDA label),4.0,Neoplasms; Carcinoma; Glioblastoma
+Physostigmine,None reported,Unknown,
+Miconazole,None reported,4.0,"Tinea Pedis; Candidiasis, Vulvovaginal"
+Donepezil,None reported,4.0,Skin Diseases; Stroke; Cocaine-Related Disorders
+Nimodipine,Has black box warning (see FDA label),4.0,Infertility; Cardiovascular Diseases; Intracranial Aneurysm
+Gatifloxacin,None reported,4.0,"Conjunctivitis, Bacterial; Osteomyelitis; Infections"
+Carmustine,None reported,4.0,Astrocytoma; Brain Neoplasms; Glioblastoma
+Mitomycin,None reported,Unknown,
+Tirofiban,None reported,4.0,Myocardial Infarction
+Riboflavin,None reported,4.0,"Psoriasis; Myocardial Infarction; Anemia, Iron-Deficiency"
+Adenosine,None reported,Unknown,
+Gramicidin_D,None reported,Unknown,
+Atorvastatin,None reported,4.0,Cardiovascular Diseases; Metabolic Syndrome; Hypercholesterolemia
+Resveratrol,None reported,3.0,"Metabolic Syndrome; Cardiovascular Diseases; Pulmonary Disease, Chronic Obstructive"
+Fluvastatin,None reported,4.0,Aortic Valve Stenosis; Cardiovascular Diseases; Hepatitis C
+Galantamine,None reported,4.0,"Dementia, Vascular; Dementia; Mental Disorders"
+Permethrin,None reported,4.0,Lyme Disease; Ectoparasitic Infestations; Lice Infestations
+Ezetimibe,None reported,4.0,Hypercholesterolemia; Metabolic Syndrome; Lipid Metabolism Disorders
+Raloxifene,None reported,Unknown,
+Estradiol,Has black box warning (see FDA label),4.0,Infertility; Atrophic Vaginitis; Menorrhagia
+Chloroprocaine,None reported,4.0,Pain; Pregnancy; Cataract
+Bupivacaine,Has black box warning (see FDA label),4.0,"Hypotension; Pain; Hernia, Inguinal"
+Levobupivacaine,None reported,4.0,Pain; Postoperative Complications; Neoplasms
+Indocyanine_green_ac,None reported,4.0,"Breast Neoplasms; Periodontitis; Carcinoma, Non-Small-Cell Lung"
+Bromfenac,None reported,4.0,"Eye Diseases; Inflammation; Conjunctivitis, Allergic"
+Iohexol,Has black box warning (see FDA label),4.0,HIV Infections; Acute Kidney Injury; Renal Insufficiency
+Lumacaftor,None reported,4.0,Liver Diseases; Cystic Fibrosis
+Ivacaftor,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Liver Diseases; Bronchitis, Chronic"
+Tepotinib,None reported,4.0,"Neoplasms; Carcinoma, Non-Small-Cell Lung"
+Anagrelide,None reported,4.0,"Thrombocythemia, Essential; Thrombosis; Myeloproliferative Disorders"
+Mirabegron,None reported,4.0,Heart Failure; Pain; Liver Diseases
+Leniolisib,None reported,4.0,Sjogren's Syndrome; Common Variable Immunodeficiency; Primary Immunodeficiency Diseases
+Nikethamide,None reported,2.0,Respiratory Tract Diseases
+Tolvaptan,Has black box warning (see FDA label),4.0,Carcinoma; Liver Cirrhosis; Heart Failure
+Cefodizime,None reported,2.0,Bacterial Infections
+Nilotinib,Has black box warning (see FDA label),4.0,"Neoplasms; Precursor Cell Lymphoblastic Leukemia-Lymphoma; Leukemia, Myeloid, Acute"
+Osilodrostat,None reported,4.0,Pituitary ACTH Hypersecretion; Cushing Syndrome
+Dibenzepin,None reported,4.0,
+Epalrestat,None reported,4.0,Breast Neoplasms; Charcot-Marie-Tooth Disease
+Eliglustat,None reported,4.0,Gaucher Disease; Gaucher Disease; Hematologic Neoplasms
+Iprindole,None reported,2.0,Depressive Disorder
+Thenalidine,None reported,4.0,Pruritus; Hypersensitivity
+Flutrimazole,None reported,2.0,
+Ataluren,None reported,4.0,"Epilepsy; Cystic Fibrosis; Muscular Dystrophy, Duchenne"
+Picotamide,None reported,-1.0,Thrombosis
+Proxyphylline,None reported,2.0,"Lung Diseases, Obstructive"
+Telotristat_ethyl,None reported,4.0,Liver Diseases; Carcinoid Heart Disease; Malignant Carcinoid Syndrome
+Tezacaftor,None reported,4.0,Cystic Fibrosis
+Tetrabromo_2_Benzotr,None reported,Unknown,
+Temafloxacin,None reported,4.0,
+Benperidol,None reported,3.0,Psychotic Disorders; Anxiety; Dementia
+Tipiracil,None reported,4.0,Cholangiocarcinoma; Breast Neoplasms; Breast Neoplasms
+Mizolastine,None reported,4.0,Hypersensitivity
+Apremilast,None reported,4.0,"Dermatitis, Atopic; Spondylitis, Ankylosing; Behcet Syndrome"
+Fenticonazole,None reported,2.0,
+Trilaciclib,None reported,4.0,Small Cell Lung Carcinoma
+Muzolimine,None reported,4.0,Cardiovascular Diseases
+Pirfenidone,None reported,4.0,"Immune System Diseases; Idiopathic Pulmonary Fibrosis; Scleroderma, Systemic"
+Oxatomide,None reported,2.0,"Hypersensitivity; Muscular Dystrophy, Duchenne"
+Mebhydrolin,None reported,2.0,Hypersensitivity
+Bithionol,None reported,4.0,Acne Vulgaris; Helminthiasis
+Bepridil,None reported,4.0,
+Lusutrombopag,None reported,4.0,"Purpura, Thrombocytopenic, Idiopathic; Thrombocytopenia; Hemorrhage"
+Lypressin,None reported,4.0,
+Diclofenamide,None reported,4.0,"Myotonic Disorders; Hypokalemic Periodic Paralysis; Paralysis, Hyperkalemic Periodic"
+Baricitinib,Has black box warning (see FDA label),4.0,"Arthritis, Rheumatoid; Diabetic Nephropathies; Psoriasis"
+Ozanimod,None reported,4.0,"Crohn Disease; Colitis, Ulcerative; Liver Diseases"
+Meptazinol,None reported,-1.0,
+Ceforanide,None reported,4.0,Bacterial Infections
+Perampanel,Has black box warning (see FDA label),4.0,Epilepsy; Seizures; Essential Tremor
+Benzbromarone,None reported,4.0,Gout; Hyperuricemia; Familial Primary Pulmonary Hypertension
+Tetryzoline,None reported,4.0,Eye Manifestations; Dry Eye Syndromes; Nasal Obstruction
+Triclabendazole,None reported,4.0,Fascioliasis; Helminthiasis
+Rotigotine,None reported,Unknown,
+Penfluridol,None reported,2.0,Psychotic Disorders
+Ibudilast,None reported,4.0,"Lung Diseases, Obstructive; Pain; Opioid-Related Disorders"
+Amlexanox,None reported,4.0,"Lung Diseases, Obstructive; Stomatitis"
+Sulfamethoxypyridazi,None reported,Unknown,
+Veralipride,None reported,4.0,Psychotic Disorders; Hot Flashes
+Fostamatinib,None reported,4.0,"Lymphoma, Large B-Cell, Diffuse; Arthritis, Rheumatoid; Glomerulonephritis, IGA"
+Astemizole,None reported,4.0,Hypersensitivity
+Clothiapine,None reported,2.0,Psychotic Disorders
+Lofepramine,None reported,2.0,Depressive Disorder
+Talampicillin,None reported,2.0,Bacterial Infections
+Lidoflazine,None reported,2.0,Cardiovascular Diseases
+Tripelennamine,None reported,4.0,Pruritus; Hypersensitivity
+Cefotiam,None reported,4.0,
+Nimorazole,None reported,3.0,"Carcinoma, Squamous Cell; Carcinoma, Squamous Cell; Amebiasis"
+Lomefloxacin,None reported,4.0,Osteomyelitis; Bacterial Infections; Eye Infections
+Sitaxentan,None reported,4.0,"Heart Failure, Diastolic; Hypertension, Pulmonary"
+Proglumide,None reported,4.0,Peptic Ulcer; Gastroesophageal Reflux; Non-alcoholic Fatty Liver Disease
+Terfenadine,None reported,4.0,"Hepatitis B, Chronic; Hepatitis D; Lymphoma, Large B-Cell, Diffuse"
+Feprazone,None reported,4.0,Rheumatic Diseases; Arthralgia; Myalgia
+Cefsulodin,None reported,2.0,Bacterial Infections
+Dyphylline,None reported,4.0,"Lung Diseases, Obstructive"
+Cefmenoxime,None reported,4.0,Bacterial Infections; Eye Infections
+Ceftizoxime,None reported,4.0,Osteomyelitis
+Grepafloxacin,None reported,4.0,
+Benoxaprofen,None reported,4.0,Rheumatic Diseases
+Lasmiditan,None reported,4.0,Substance-Related Disorders; Migraine Disorders
+Imidapril,None reported,4.0,"Cardiovascular Diseases; Polycystic Kidney, Autosomal Dominant; Essential Hypertension"
+Ergotamine,Has black box warning (see FDA label),4.0,Headache; Migraine Disorders
+Amrinone,None reported,4.0,Cardiovascular Diseases
+Terodiline,None reported,4.0,Urinary Incontinence; Polyuria
+Isoxicam,None reported,4.0,
+Valsartan,Has black box warning (see FDA label),4.0,Heart Failure; Heart Failure; Hypertension
+Cyclacillin,None reported,4.0,
+Triclocarban,None reported,2.0,
+Tolrestat,None reported,4.0,Diabetes Mellitus
+Buclizine,None reported,4.0,Hypersensitivity
+Sulfathiourea,None reported,2.0,Bacterial Infections
+Carbenicillin,None reported,2.0,
+Piperazine,None reported,4.0,Helminthiasis
+Bromperidol,None reported,3.0,Psychotic Disorders; Anxiety; Dementia
+Fipexide,None reported,4.0,Attention Deficit Disorder with Hyperactivity
+Sulconazole,None reported,4.0,
+Bufexamac,None reported,4.0,Rheumatic Diseases; Myalgia; Arthralgia
+Etrasimod,None reported,4.0,"Colitis, Ulcerative"
+Tioconazole,None reported,4.0,
+Cephaloglycin,None reported,4.0,
+Cefpiramide,None reported,4.0,Bacterial Infections
+Oxypertine,None reported,2.0,Psychotic Disorders
+Betazole,None reported,4.0,
+Masitinib,None reported,3.0,"Neoplasms; Arthritis, Rheumatoid; Multiple Sclerosis, Chronic Progressive"
+Methyprylon,None reported,4.0,
+Debrisoquine,None reported,2.0,Hypertension
+Pirprofen,None reported,4.0,Rheumatic Diseases
+Latamoxef,None reported,4.0,Bacterial Infections
+Fluspirilene,None reported,3.0,Psychotic Disorders; Anxiety; Dementia
+Ambrisentan,Has black box warning (see FDA label),4.0,"Hypertension, Pulmonary; Idiopathic Pulmonary Fibrosis; Vascular Diseases"
+Pentagastrin,None reported,4.0,
+Cyclothiazide,None reported,4.0,Cardiovascular Diseases
+Telmisartan,Has black box warning (see FDA label),4.0,Hypertension; Heart Diseases; HIV Infections
+Acrivastine,None reported,4.0,Hypersensitivity
+Terguride,None reported,Unknown,
+Aminophenazone,None reported,2.0,
+Prenylamine,None reported,Unknown,
+Thiethylperazine,None reported,4.0,
+Seratrodast,None reported,4.0,"Lung Diseases, Obstructive"
+Suloctidil,None reported,4.0,Cardiovascular Diseases
+Mepyramine,None reported,4.0,Pruritus; Hypersensitivity
+Halofantrine,None reported,4.0,
+Iproniazid,None reported,2.0,Depressive Disorder
+Guanabenz,None reported,4.0,
+Guanosine_5__Diphosp,None reported,Unknown,
+Chlormezanone,None reported,4.0,
+Carglumic_acid,None reported,4.0,Hyperammonemia; Hyperammonemia; Propionic Acidemia
+Pinacidil,None reported,4.0,Hypertension
+Tamibarotene,None reported,4.0,"Crohn Disease; Myelodysplastic Syndromes; Leukemia, Myeloid, Acute"
+Quinethazone,None reported,4.0,Cardiovascular Diseases
+Sulfaguanidine,None reported,4.0,
+Isocarboxazid,Has black box warning (see FDA label),4.0,"Depressive Disorder, Major; Alzheimer Disease; Depression"
+Methapyrilene,None reported,4.0,Hypersensitivity
+Pyrvinium,None reported,Unknown,
+Diethylpropion,None reported,4.0,Obesity
+Methysergide,None reported,4.0,
+Guanethidine,None reported,4.0,
+Ramatroban,None reported,4.0,Asthma; Severe Acute Respiratory Syndrome
+Maraviroc,Has black box warning (see FDA label),4.0,HIV Infections; HIV Infections; AIDS Dementia Complex
+Triflupromazine,None reported,4.0,
+Azapropazone,None reported,2.0,Rheumatic Diseases
+Trovafloxacin,Has black box warning (see FDA label),4.0,
+Sparfloxacin,None reported,4.0,Osteomyelitis; Bacterial Infections
+Cyclizine,None reported,4.0,Hypersensitivity
+CI_1040,None reported,2.0,"Pancreatic Neoplasms; Carcinoma, Non-Small-Cell Lung; Pancreatic Neoplasms"
+Deserpidine,None reported,4.0,Hypertension
+Nialamide,None reported,4.0,Depressive Disorder
+Norethindrone_enanth,None reported,4.0,Lymphoma; Endometriosis; Pregnancy
+Fesoterodine,None reported,4.0,"Urinary Incontinence; Urinary Bladder, Neurogenic; Urinary Bladder, Overactive"
+Clebopride,None reported,Unknown,
+Ropinirole,Has black box warning (see FDA label),4.0,Restless Legs Syndrome; Parkinson Disease
+Rilmenidine,None reported,Unknown,
+Tolazoline,None reported,4.0,
+Bethanidine,None reported,4.0,Hypertension
+Macimorelin,None reported,4.0,"Diagnostic Techniques, Endocrine"
+Rolapitant,None reported,4.0,Postoperative Nausea and Vomiting; Nausea; Nausea
+Azatadine,None reported,4.0,
+Ethinamate,None reported,4.0,
+Letermovir,None reported,4.0,Cytomegalovirus Infections; Virus Diseases; Infections
+Orciprenaline,None reported,Unknown,
+Perphenazine_enantha,Has black box warning (see FDA label),4.0,Psychotic Disorders; Cocaine-Related Disorders; Anxiety
+Oxyphenisatin,None reported,4.0,
+Fenfluramine,Has black box warning (see FDA label),4.0,"Epilepsy, Reflex; Epilepsies, Myoclonic"
+Thiabendazole,None reported,4.0,Helminthiasis
+Cefalotin,None reported,4.0,Bacterial Infections
+Telotristat,None reported,4.0,Liver Diseases; Carcinoid Heart Disease; Malignant Carcinoid Syndrome
+Tirbanibulin,None reported,1.0,Neoplasms
+Buflomedil,None reported,4.0,Cardiovascular Diseases
+Suvorexant,None reported,4.0,Sleep Initiation and Maintenance Disorders; Sleep Apnea Syndromes; Tobacco Use Disorder
+Dapiprazole,None reported,4.0,Glaucoma
+Dalfampridine,None reported,4.0,"Sleep Apnea, Obstructive; Cerebral Palsy; Stroke"
+Mefruside,None reported,2.0,Cardiovascular Diseases
+Acemetacin,None reported,2.0,Rheumatic Diseases
+Pargyline,None reported,4.0,Hypertension
+Lomitapide,Has black box warning (see FDA label),4.0,Hypercholesterolemia; Hyperlipoproteinemia Type II; Hyperlipoproteinemia Type II
+Cefadroxil,None reported,4.0,"Infections; Tuberculosis, Pulmonary; Bacterial Infections"
+Phenindamine,None reported,-1.0,
+Perazine,None reported,3.0,Psychotic Disorders; Anxiety; Dementia
+Carbinoxamine,None reported,4.0,Hypersensitivity
+Benzthiazide,None reported,4.0,
+Enoxacin,None reported,4.0,Osteomyelitis; Bacterial Infections; Amyotrophic Lateral Sclerosis
+Minaprine,None reported,4.0,
+Ambenonium,None reported,4.0,
+Cobalt_chloride,None reported,4.0,
+Captopril,None reported,Unknown,
+Tolfenamic_acid,None reported,2.0,"Rheumatic Diseases; Pancreatic Neoplasms; Supranuclear Palsy, Progressive"
+Isometheptene,None reported,2.0,Digestive System Diseases
+Phenyl_aminosalicyla,None reported,Unknown,
+Zimelidine,None reported,4.0,
+Remoxipride,None reported,4.0,
+Nifurtimox,None reported,Unknown,
+Cefamandole,None reported,-1.0,
+Benzphetamine,None reported,4.0,
+Enalapril,Has black box warning (see FDA label),4.0,Hypertension; Proteinuria; Cerebral Hemorrhage
+Oseltamivir,None reported,4.0,"Renal Insufficiency, Chronic; Infections; Virus Diseases"
+Sulfapyridine,None reported,4.0,Bacterial Infections
+Indoprofen,None reported,4.0,Rheumatic Diseases
+Loracarbef,None reported,4.0,Osteomyelitis; Bacterial Infections
+Phenmetrazine,None reported,4.0,
+Febuxostat,Has black box warning (see FDA label),4.0,Gout; Cardiovascular Diseases; Hypertension
+Bosentan,Has black box warning (see FDA label),4.0,"Hypertension, Pulmonary; Pulmonary Disease, Chronic Obstructive; Idiopathic Pulmonary Fibrosis"
+Phthalylsulfathiazol,None reported,4.0,
+Xipamide,None reported,2.0,Cardiovascular Diseases
+Netilmicin,None reported,4.0,Osteomyelitis
+Cisapride,None reported,Unknown,
+Raltegravir,None reported,4.0,Virus Diseases; HIV Infections; HIV Infections
+Chloroxine,None reported,4.0,
+Dihydroergocristine,None reported,-1.0,Cardiovascular Diseases
+Pramipexole,None reported,Unknown,
+Benfluorex,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Butamben,None reported,4.0,
+Triprolidine,None reported,Unknown,
+Flunisolide,None reported,4.0,"Lung Diseases, Obstructive; Nasal Obstruction; Rhinitis, Allergic, Perennial"
+Tafenoquine,None reported,4.0,"Malaria, Vivax; Malaria"
+Meticillin,None reported,4.0,Osteomyelitis; Bacterial Infections
+Oxamniquine,None reported,4.0,Helminthiasis
+Perindopril,Has black box warning (see FDA label),4.0,"Cardiovascular Diseases; Stress Disorders, Post-Traumatic; Amphetamine-Related Disorders"
+Lisinopril,Has black box warning (see FDA label),4.0,Hypertension; Heart Failure; Myocardial Infarction
+Carbenoxolone,None reported,2.0,Gastroesophageal Reflux; Peptic Ulcer
+Methsuximide,None reported,4.0,Epilepsy; Seizures
+Avibactam,None reported,4.0,Infections; Urinary Tract Infections; Pneumonia
+Ipragliflozin,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 1; Diabetes Mellitus, Type 2"
+Roflumilast,None reported,4.0,"Bronchiectasis; Pulmonary Disease, Chronic Obstructive; Non-alcoholic Fatty Liver Disease"
+Trimethobenzamide,None reported,4.0,Hypersensitivity
+Dofetilide,Has black box warning (see FDA label),4.0,"Arrhythmias, Cardiac; Atrial Fibrillation; Heart Failure"
+Clobazam,Has black box warning (see FDA label),4.0,Anxiety; Neuralgia; Pain
+Mibefradil,None reported,4.0,
+Novobiocin,None reported,4.0,Neoplasms
+Phenindione,None reported,4.0,Thrombosis; Pregnancy
+Topotecan,Has black box warning (see FDA label),4.0,"Neoplasms; Small Cell Lung Carcinoma; Carcinoma, Non-Small-Cell Lung"
+Bentiromide,None reported,4.0,
+Cytarabine,None reported,Unknown,
+Teneligliptin,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Desvenlafaxine,Has black box warning (see FDA label),4.0,"Diabetic Neuropathies; Fibromyalgia; Depressive Disorder, Major"
+Cinnarizine,None reported,2.0,Vertigo
+Dihydroergotamine,Has black box warning (see FDA label),4.0,Migraine Disorders
+Hydroxyurea,Has black box warning (see FDA label),4.0,"Leukemia; Melanoma; Thrombocythemia, Essential"
+Pemirolast,None reported,4.0,"Aortic Aneurysm, Abdominal; Asthma; Muscular Dystrophy, Duchenne"
+Lomustine,Has black box warning (see FDA label),4.0,"Neoplasms; Glioblastoma; Leukemia, Myeloid, Acute"
+Amsacrine,None reported,Unknown,
+Tiaprofenic_acid,None reported,2.0,Rheumatic Diseases
+Tavaborole,None reported,4.0,Onychomycosis; Onychomycosis
+Plerixafor,None reported,Unknown,
+Dabigatran_etexilate,Has black box warning (see FDA label),4.0,Thrombosis; Venous Thromboembolism; Venous Thrombosis
+Trifluridine,None reported,4.0,Neoplasms; Colorectal Neoplasms; Rectal Neoplasms
+Ethosuximide,None reported,4.0,Epilepsy; Irritable Bowel Syndrome; Complex Regional Pain Syndromes
+Fidaxomicin,None reported,Unknown,
+Arsenic_trioxide,Has black box warning (see FDA label),4.0,"Leukemia; Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Carcinoma, Hepatocellular"
+Pimecrolimus,Has black box warning (see FDA label),4.0,"Dermatitis, Atopic; Eczema; Vitiligo"
+Voriconazole,None reported,4.0,Aspergillosis; Infections; HIV Infections
+Allopurinol,Has black box warning (see FDA label),4.0,Gout; Leukemia; Lymphoma
+Bendamustine,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Multiple Myeloma; Lymphoma, Non-Hodgkin"
+Dactinomycin,None reported,Unknown,
+Azilsartan_medoxomil,Has black box warning (see FDA label),4.0,Cardiovascular Diseases; Hypertension; Essential Hypertension
+Itraconazole,None reported,Unknown,
+Nalidixic_acid,None reported,4.0,Osteomyelitis; Bacterial Infections
+Vilazodone,Has black box warning (see FDA label),4.0,"Stress Disorders, Post-Traumatic; Depressive Disorder, Major"
+Rifapentine,None reported,4.0,"Tuberculosis, Pulmonary; Osteomyelitis; HIV Infections"
+Protirelin,None reported,4.0,Respiratory Distress Syndrome; Neoplasms
+Teriflunomide,Has black box warning (see FDA label),4.0,"Kidney Diseases; Celiac Disease; Paraparesis, Tropical Spastic"
+Lincomycin,Has black box warning (see FDA label),4.0,"Osteomyelitis; Infections; Enterocolitis, Pseudomembranous"
+Upadacitinib,Has black box warning (see FDA label),4.0,"Dermatitis, Atopic; Crohn Disease; Colitis, Ulcerative"
+Lurasidone,Has black box warning (see FDA label),4.0,Psychotic Disorders; Autistic Disorder; Psychotic Disorders
+Gemifloxacin,Has black box warning (see FDA label),4.0,
+Ethionamide,None reported,4.0,"Osteomyelitis; Tuberculosis, Multidrug-Resistant; Tuberculosis, Pulmonary"
+Bedaquiline,Has black box warning (see FDA label),4.0,"Tuberculosis; Tuberculosis, Multidrug-Resistant"
+Leuprolide,None reported,4.0,Prostatic Neoplasms; Leiomyoma; Obesity
+Metyrosine,None reported,4.0,Hypertension; Psychotic Disorders; Pheochromocytoma
+Thalidomide,None reported,Unknown,
+Meclofenamic_acid,Has black box warning (see FDA label),4.0,Rheumatic Diseases; Arthralgia; Myalgia
+Bazedoxifene,None reported,4.0,"Osteoporosis; Osteoporosis, Postmenopausal; Multiple Sclerosis, Relapsing-Remitting"
+Temozolomide,Has black box warning (see FDA label),4.0,Glioma; Glioblastoma; Leukemia
+Menadione,None reported,4.0,Hemorrhage
+Trospium,None reported,4.0,"Urinary Bladder, Overactive; Urinary Incontinence; Polyuria"
+Felbinac,None reported,3.0,Myalgia; Arthralgia; Acute Kidney Injury
+Dexrazoxane,None reported,4.0,"Sarcoma, Ewing; Myelodysplastic Syndromes; Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+Gemcitabine,None reported,2.0,Neoplasms
+Desmopressin,Has black box warning (see FDA label),4.0,Cerebral Hemorrhage; Hemorrhage; Hypertension
+Piribedil,None reported,3.0,Parkinson Disease
+Dacarbazine,Has black box warning (see FDA label),4.0,Melanoma; Melanoma; Melanoma
+Tolcapone,Has black box warning (see FDA label),4.0,Tobacco Use Disorder; Gambling; Pick Disease of the Brain
+Daunorubicin,Has black box warning (see FDA label),4.0,Sarcoma; Leukemia; Breast Neoplasms
+Valganciclovir,Has black box warning (see FDA label),4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Infections; Lymphoma"
+Vortioxetine,Has black box warning (see FDA label),4.0,Attention Deficit Disorder with Hyperactivity; Feeding and Eating Disorders; Liver Diseases
+Felbamate,Has black box warning (see FDA label),4.0,Epilepsy; Seizures; Anemia
+Idarubicin,Has black box warning (see FDA label),4.0,"Leukemia, Myeloid, Acute; Leukemia, Myeloid; Carcinoma, Hepatocellular"
+Esketamine,Has black box warning (see FDA label),4.0,"Pain; Tinnitus; Depressive Disorder, Major"
+Fluconazole,None reported,4.0,Candidemia; Aspergillosis; Infections
+Cefradine,None reported,4.0,Bacterial Infections
+Saquinavir,None reported,Unknown,
+Piretanide,None reported,2.0,Cardiovascular Diseases
+Cisplatin,None reported,Unknown,
+Brexpiprazole,Has black box warning (see FDA label),4.0,"Psychotic Disorders; Stress Disorders, Post-Traumatic; Psychotic Disorders"
+Rivaroxaban,Has black box warning (see FDA label),4.0,Atrial Fibrillation; Venous Thrombosis; Venous Thrombosis
+Vigabatrin,Has black box warning (see FDA label),4.0,Cocaine-Related Disorders; Epilepsy; Amphetamine-Related Disorders
+Ranolazine,None reported,4.0,"Cardiomyopathy, Dilated; Atrial Fibrillation; Acute Coronary Syndrome"
+Vernakalant,None reported,4.0,"Atrial Fibrillation; Atrial Flutter; Arrhythmias, Cardiac"
+Nilutamide,Has black box warning (see FDA label),4.0,"Neoplasms; Prostatic Neoplasms; Prostatic Neoplasms, Castration-Resistant"
+Amoxapine,Has black box warning (see FDA label),4.0,Depressive Disorder
+Oxaprozin,Has black box warning (see FDA label),4.0,"Rheumatic Diseases; Arthritis, Rheumatoid; Arthritis, Juvenile"
+Ifosfamide,Has black box warning (see FDA label),4.0,Osteosarcoma; Neoplasms; Sarcoma
+Ibutilide,Has black box warning (see FDA label),4.0,
+Paromomycin,None reported,4.0,"Leishmaniasis, Visceral; Osteomyelitis; Leishmaniasis"
+Pimavanserin,Has black box warning (see FDA label),4.0,"Psychotic Disorders; Neurodegenerative Diseases; Depressive Disorder, Major"
+Coenzyme_M,None reported,Unknown,
+Ivabradine,None reported,4.0,"Cardiovascular Diseases; Hypotension, Orthostatic; Heart Failure"
+Dimethyl_fumarate,None reported,4.0,"Multiple Sclerosis, Relapsing-Remitting; Psoriasis; Multiple Sclerosis, Chronic Progressive"
+Flunarizine,None reported,2.0,"Myoclonic Epilepsy, Juvenile; Epilepsy, Absence; Epilepsy, Absence"
+Dimethyl_sulfoxide,None reported,4.0,Myalgia; Arthralgia; Contracture
+Levetiracetam,None reported,4.0,Epilepsy; Seizures; Cognitive Dysfunction
+Rifabutin,None reported,4.0,HIV Infections; Osteomyelitis; Mycobacterium avium-intracellulare Infection
+Capecitabine,Has black box warning (see FDA label),4.0,Breast Neoplasms; Colorectal Neoplasms; Esophageal Neoplasms
+Ticagrelor,Has black box warning (see FDA label),4.0,Acute Coronary Syndrome; Myocardial Infarction; Ischemia
+Papaverine,None reported,3.0,Prostatic Hyperplasia; Gastroenteritis; Erectile Dysfunction
+Ciclopirox,None reported,4.0,"Dermatitis, Seborrheic; Tinea Pedis; Onychomycosis"
+Canagliflozin,Has black box warning (see FDA label),4.0,Obesity; Diabetic Nephropathies; Diabetes Mellitus
+Acetylcholine,None reported,4.0,Miosis; Cataract
+Ticlopidine,Has black box warning (see FDA label),4.0,Carotid Stenosis; Peripheral Arterial Disease; Thrombosis
+Deoxycholic_acid,None reported,-1.0,
+Roxithromycin,None reported,3.0,Bacterial Infections
+Riluzole,None reported,4.0,"Stress Disorders, Post-Traumatic; Child Development Disorders, Pervasive; Melanoma"
+Flumazenil,None reported,Unknown,
+Oxcarbazepine,Has black box warning (see FDA label),4.0,"Epilepsy; Seizures; Epilepsies, Partial"
+Filgotinib,None reported,4.0,"Arthritis, Rheumatoid; Autoimmune Diseases; Inflammation"
+Ciprofloxacin,Has black box warning (see FDA label),4.0,Anthrax; Infections; Urinary Tract Infections
+Amlodipine,None reported,4.0,Hypertension; Proteinuria; Angina Pectoris
+Atomoxetine,Has black box warning (see FDA label),4.0,"Attention Deficit Disorder with Hyperactivity; Attention Deficit and Disruptive Behavior Disorders; Sleep Apnea, Obstructive"
+Buserelin,None reported,3.0,Infertility; Prostatic Neoplasms
+Troleandomycin,None reported,4.0,Osteomyelitis; Bacterial Infections
+Tyrosine,None reported,Unknown,
+Omadacycline,None reported,4.0,Urinary Tract Infections; Bacterial Infections; Pneumonia
+Procarbazine,Has black box warning (see FDA label),4.0,Hodgkin Disease; Glioblastoma; Lymphoma
+Tolmetin,Has black box warning (see FDA label),4.0,"Arthritis, Rheumatoid; Osteoarthritis"
+Oxacillin,None reported,4.0,Infections; Bacteremia; Osteomyelitis
+Empagliflozin,None reported,4.0,Diabetes Mellitus; Polycystic Ovary Syndrome; Kidney Diseases
+Etoposide,None reported,4.0,Lymphoma; Hodgkin Disease; Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Cariprazine,Has black box warning (see FDA label),4.0,Bipolar Disorder; Schizophrenia; Bipolar Disorder
+Vincristine,Has black box warning (see FDA label),4.0,"Leukemia, Biphenotypic, Acute; Leukemia, Lymphocytic, Chronic, B-Cell; Lymphoma, Follicular"
+Zolpidem,Has black box warning (see FDA label),4.0,Sleep Initiation and Maintenance Disorders; Obesity; Sleep Wake Disorders
+Letrozole,None reported,4.0,Breast Neoplasms; Infertility; Dwarfism
+Laropiprant,None reported,4.0,Rosacea; Hypercholesterolemia; Hyperlipoproteinemia Type II
+Oxybutynin,None reported,4.0,"Urinary Bladder, Neurogenic; Urinary Incontinence; Urinary Bladder, Overactive"
+Diflunisal,Has black box warning (see FDA label),4.0,"Fever; Pain; Arthritis, Rheumatoid"
+Gefitinib,None reported,4.0,"Carcinoma, Non-Small-Cell Lung; Head and Neck Neoplasms; Lung Neoplasms"
+Vinorelbine,Has black box warning (see FDA label),4.0,"Neoplasms; Carcinoma, Non-Small-Cell Lung; Mesothelioma"
+Oxaliplatin,Has black box warning (see FDA label),4.0,Colorectal Neoplasms; Stomach Neoplasms; Stomach Neoplasms
+Goserelin,None reported,4.0,Neoplasms; Leiomyoma; Prostatic Neoplasms
+Fluorouracil,None reported,4.0,"Colorectal Neoplasms; Keratosis, Actinic; Neoplasms"
+Exemestane,None reported,4.0,Breast Neoplasms; Neoplasms; Breast Neoplasms
+Pentobarbital,None reported,4.0,Heart Diseases; Substance-Related Disorders; Status Epilepticus
+Pyrantel,None reported,2.0,Helminthiasis
+Mitoxantrone,Has black box warning (see FDA label),4.0,"Lymphoma; Neoplasms; Lymphoma, Non-Hodgkin"
+Minoxidil,Has black box warning (see FDA label),4.0,Alopecia; Hypertension; Alopecia
+Ritonavir,None reported,Unknown,
+Triazolam,Has black box warning (see FDA label),4.0,Substance-Related Disorders; Anxiety; Dementia
+Prasugrel,Has black box warning (see FDA label),4.0,Thrombosis; Myocardial Infarction; Acute Coronary Syndrome
+Dronedarone,Has black box warning (see FDA label),4.0,Atrial Fibrillation
+Linezolid,None reported,4.0,Infections; Skin Diseases; Pneumonia
+Meclizine,None reported,4.0,"Carcinoma, Hepatocellular; Smoking Cessation; Vertigo"
+Aminobenzoic_acid,None reported,-1.0,
+Quercetin,None reported,3.0,"Pulmonary Disease, Chronic Obstructive; Prostatic Neoplasms; Renal Insufficiency, Chronic"
+Hexachlorophene,None reported,4.0,
+Aminoglutethimide,None reported,4.0,"Neoplasms; Breast Neoplasms; Prostatic Neoplasms, Castration-Resistant"
+Naftifine,None reported,4.0,Tinea Pedis; Onychomycosis
+Bicalutamide,None reported,4.0,Prostatic Neoplasms; Prostatic Neoplasms; Prostatic Neoplasms
+Acenocoumarol,None reported,3.0,Thrombosis; Atrial Fibrillation; Melanoma
+Guanfacine,None reported,4.0,Hypertension; Tourette Syndrome; Cocaine-Related Disorders
+Caspofungin,None reported,4.0,"Wounds and Injuries; Candidiasis, Invasive; Aspergillosis"
+Vinblastine,None reported,4.0,"Hodgkin Disease; Melanoma; Lymphoma, Large B-Cell, Diffuse"
+Docetaxel,Has black box warning (see FDA label),4.0,"Squamous Cell Carcinoma of Head and Neck; Adenocarcinoma; Carcinoma, Non-Small-Cell Lung"
+Phenol,None reported,4.0,"Cytomegalovirus Infections; Nephrotic Syndrome; Rhinitis, Allergic, Seasonal"
+Rizatriptan,Has black box warning (see FDA label),4.0,Migraine Disorders; Migraine with Aura; Migraine without Aura
+Benzylpenicillin,None reported,4.0,Bacterial Infections
+Propantheline,None reported,4.0,Digestive System Diseases
+Doxorubicin,Has black box warning (see FDA label),4.0,"Ovarian Neoplasms; Leukemia, Lymphoid; Neoplasms"
+Triptorelin,None reported,4.0,Prostatic Neoplasms; Prostatic Neoplasms; Endometriosis
+Gliquidone,None reported,2.0,Diabetes Mellitus
+Milrinone,None reported,4.0,"Heart Failure; Arrhythmias, Cardiac"
+Perhexiline,None reported,4.0,
+Micafungin,None reported,4.0,"Aspergillosis; Candidemia; Candidiasis, Invasive"
+Eptifibatide,None reported,4.0,Myocardial Infarction; Thrombosis; Cardiovascular Diseases
+Vancomycin,Has black box warning (see FDA label),4.0,"Cellulitis; Infections; Cholangitis, Sclerosing"
+Linagliptin,None reported,Unknown,
+Indigotindisulfonic_,None reported,4.0,
+Stavudine,None reported,Unknown,
+Melphalan,Has black box warning (see FDA label),4.0,"Multiple Myeloma; Hodgkin Disease; Lymphoma, Non-Hodgkin"
+Leflunomide,Has black box warning (see FDA label),4.0,"Arthritis, Rheumatoid; Myasthenia Gravis; Multiple Myeloma"
+Methylene_blue,Has black box warning (see FDA label),4.0,"Abscess; Malaria, Falciparum; Malaria"
+Diethylcarbamazine,None reported,4.0,"Infections; Elephantiasis, Filarial; Loiasis"
+Anastrozole,None reported,4.0,"Breast Neoplasms; Hypertension, Pulmonary; Carcinoma"
+Nelfinavir,None reported,Unknown,
+Chloramphenicol,Has black box warning (see FDA label),4.0,Osteomyelitis; Infections
+Pyrimethamine,None reported,4.0,"Amyotrophic Lateral Sclerosis; Pregnancy; Leukemia, Lymphocytic, Chronic, B-Cell"
+Valproic_acid,Has black box warning (see FDA label),4.0,Epilepsy; Pancreatic Neoplasms; Sarcoma
+Biotin,None reported,4.0,"Anemia, Iron-Deficiency; Anemia; Heart Failure"
+Norfloxacin,Has black box warning (see FDA label),4.0,Liver Cirrhosis; Osteomyelitis; Bacterial Infections
+Tigecycline,Has black box warning (see FDA label),4.0,"Infections; Skin Diseases; Leukemia, Myeloid, Acute"
+Zaleplon,Has black box warning (see FDA label),4.0,Sleep Initiation and Maintenance Disorders; Anxiety; Dementia
+Pyrazinamide,None reported,4.0,"Tuberculosis, Pulmonary; Acquired Immunodeficiency Syndrome; Osteomyelitis"
+Celiprolol,None reported,3.0,Cardiovascular Diseases; Ehlers-Danlos Syndrome
+Butenafine,None reported,4.0,Tinea Pedis
+Gemfibrozil,None reported,4.0,Coronary Disease; Tobacco Use Disorder; Anemia
+Iloprost,None reported,4.0,"Hypertension, Pulmonary; Hypertension, Pulmonary"
+Carbamazepine,Has black box warning (see FDA label),4.0,"Epilepsy; Epilepsies, Partial; Trigeminal Neuralgia"
+Modafinil,None reported,Unknown,
+Gabapentin,None reported,4.0,Sleep Initiation and Maintenance Disorders; Pain; Pruritus
+Bexarotene,Has black box warning (see FDA label),4.0,"Carcinoma, Non-Small-Cell Lung; Leukemia, Myeloid, Acute; Alopecia Areata"
+Amprenavir,None reported,4.0,HIV Infections; Acquired Immunodeficiency Syndrome; Virus Diseases
+Tobramycin,Has black box warning (see FDA label),4.0,Osteomyelitis; Infections
+Penciclovir,None reported,4.0,
+Mefenamic_acid,Has black box warning (see FDA label),4.0,Rheumatic Diseases; Hemorrhage; Diabetes Mellitus
+Carisoprodol,None reported,4.0,Pain; Low Back Pain; Spasm
+Dipyridamole,None reported,4.0,"Arthritis, Rheumatoid; HIV Infections; Thrombosis"
+Methylergometrine,None reported,4.0,
+Bendazac,None reported,4.0,Eye Diseases; Myalgia; Arthralgia
+Norgestrel,None reported,4.0,Endometrial Neoplasms; Hemorrhage
+Fenofibric_acid,None reported,4.0,Medulloblastoma; Hypertriglyceridemia; Cholestasis
+Tolbutamide,None reported,4.0,Diabetes Mellitus; Lymphoma; Neoplasms
+Fulvestrant,None reported,Unknown,
+Flutamide,Has black box warning (see FDA label),4.0,Prostatic Neoplasms; Polycystic Ovary Syndrome; Neoplasms
+Sultamicillin,None reported,2.0,Bacterial Infections
+Pitavastatin,None reported,4.0,Cardiovascular Diseases; Hypercholesterolemia; Metabolic Syndrome
+Erythromycin,None reported,4.0,Osteomyelitis; Infections; Whooping Cough
+Nicardipine,None reported,4.0,Hypertension; Cerebral Hemorrhage; Cardiovascular Diseases
+Cysteine,None reported,4.0,"Liver Diseases; Protoporphyria, Erythropoietic"
+Sertindole,None reported,4.0,Psychotic Disorders; Anxiety; Dementia
+Phenacetin,None reported,4.0,Pain; Fever
+Warfarin,Has black box warning (see FDA label),4.0,"Dermatitis, Atopic; Atrial Fibrillation; Cardiovascular Diseases"
+Nisoldipine,None reported,4.0,Cardiovascular Diseases; Hypertension
+Miglitol,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 1; Diabetes Mellitus, Type 2"
+Butoconazole,None reported,4.0,
+Trimethoprim,None reported,4.0,Osteomyelitis
+Cyclophosphamide,None reported,4.0,"Sarcoma, Synovial; Leukemia, Myeloid, Acute; Breast Neoplasms"
+Clotrimazole,None reported,4.0,"Infections; HIV Infections; Candidiasis, Vulvovaginal"
+Loperamide,Has black box warning (see FDA label),4.0,Diarrhea
+Cocaine,None reported,Unknown,
+Zopiclone,None reported,4.0,"Sleep Initiation and Maintenance Disorders; Anxiety; Sleep Apnea, Obstructive"
+Ivermectin,None reported,4.0,Malaria; Rosacea; Infections
+Clofazimine,None reported,4.0,"Tuberculosis, Pulmonary; Mycobacterium avium-intracellulare Infection; Crohn Disease"
+Diltiazem,None reported,4.0,
+Hydroxyzine,None reported,4.0,
+Oxitropium,None reported,2.0,"Lung Diseases, Obstructive"
+Clopidogrel,Has black box warning (see FDA label),4.0,Thrombosis; Ischemia; Myocardial Infarction
+Fosfomycin,None reported,4.0,Pseudomonas Infections; Urinary Tract Infections; Gonorrhea
+Bifonazole,None reported,3.0,Tinea Pedis; Onychomycosis
+Ertapenem,None reported,4.0,Urinary Tract Infections; Infections; Diabetic Foot
+Dapagliflozin,None reported,4.0,Diabetes Mellitus; Obesity; Heart Failure
+Etoricoxib,None reported,4.0,Rheumatic Diseases; Pain; HIV Infections
+Chlorpropamide,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Tromethamine,Has black box warning (see FDA label),4.0,"Pain; Rhinitis, Allergic, Seasonal; Pulpitis"
+Griseofulvin,None reported,4.0,Tinea Pedis; Infections; Tinea
+Bethanechol,None reported,4.0,"Eosinophilic Esophagitis; Pancreatic Neoplasms; Diabetes Mellitus, Type 2"
+Nimesulide,None reported,4.0,Rheumatic Diseases; Arthralgia; Myalgia
+Gentian_violet_catio,None reported,4.0,"HIV Infections; Candidiasis, Oral; Hidradenitis Suppurativa"
+Oxytocin,None reported,Unknown,
+Oxymetazoline,None reported,4.0,"Rhinitis, Allergic, Seasonal; Conjunctivitis, Allergic; Rosacea"
+Flurbiprofen,Has black box warning (see FDA label),4.0,Eye Diseases; Myalgia; Pain
+Hyoscyamine,None reported,-1.0,Digestive System Diseases
+Ergometrine,None reported,3.0,
+Capsaicin,None reported,4.0,Pain; Arthralgia; Myalgia
+Isosorbide_mononitra,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Angina, Stable; Carcinoma, Squamous Cell"
+Phenazopyridine,None reported,4.0,Pain; Dysuria; Urinary Retention
+Ramelteon,None reported,4.0,"Sleep Initiation and Maintenance Disorders; Tobacco Use Disorder; Pulmonary Disease, Chronic Obstructive"
+Azelastine,None reported,4.0,"Rhinitis, Allergic, Seasonal; Rhinitis, Allergic, Seasonal; Conjunctivitis, Allergic"
+Proflavine,None reported,Unknown,
+Indacaterol,None reported,4.0,"Lung Diseases, Obstructive; Pulmonary Disease, Chronic Obstructive; Heart Failure"
+Cefdinir,None reported,4.0,"Otitis Media; Bronchitis, Chronic; Osteomyelitis"
+Cefotaxime,None reported,4.0,Osteomyelitis; Gonorrhea; Infections
+Voglibose,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Moricizine,Has black box warning (see FDA label),4.0,"Arrhythmias, Cardiac; Atrial Fibrillation"
+Ciclesonide,None reported,4.0,"Rhinitis, Allergic, Seasonal; Rhinitis, Allergic, Seasonal; Lung Diseases, Obstructive"
+Olsalazine,None reported,4.0,"Spondylitis, Ankylosing"
+Selegiline,None reported,4.0,Marijuana Abuse; Alzheimer Disease
+Dequalinium,None reported,4.0,
+Hydralazine,None reported,4.0,Heart Failure; Hypertension; Neoplasms
+Bupropion,Has black box warning (see FDA label),4.0,"Depressive Disorder, Major; Depressive Disorder"
+Levofloxacin,Has black box warning (see FDA label),4.0,"Infections; Osteomyelitis; Urinary Bladder, Overactive"
+Tinidazole,Has black box warning (see FDA label),4.0,"Vaginosis, Bacterial; Trichomonas Infections; Malaria, Vivax"
+Celecoxib,Has black box warning (see FDA label),4.0,"Spondylitis, Ankylosing; Breast Neoplasms; Arthritis, Juvenile"
+Sulfadoxine,None reported,4.0,Malaria; Pregnancy; Anemia
+Piracetam,None reported,3.0,Cocaine-Related Disorders; Movement Disorders; Anxiety
+Nefazodone,Has black box warning (see FDA label),4.0,"Depressive Disorder, Major; Depression"
+Pramocaine,None reported,4.0,Pruritus; Hemorrhoids
+Sulfasalazine,None reported,4.0,"Spondylitis, Ankylosing; Peripheral Nervous System Diseases; Arthritis, Rheumatoid"
+Methyldopa,None reported,4.0,"Pre-Eclampsia; Hypertension; Diabetes Mellitus, Type 1"
+Lornoxicam,None reported,3.0,Rheumatic Diseases; Pain; Alzheimer Disease
+Levocarnitine,None reported,4.0,Heart Failure; Polycystic Ovary Syndrome; Atrial Fibrillation
+Nicotinamide,None reported,4.0,"Renal Insufficiency, Chronic; Psoriasis; Pre-Eclampsia"
+Anthralin,None reported,2.0,Psoriasis
+Lasofoxifene,None reported,4.0,"Osteoporosis, Postmenopausal; Menopause"
+Hydroxocobalamin,None reported,4.0,"Acne Vulgaris; Shock, Septic; Colitis, Ulcerative"
+Salicylic_acid,None reported,3.0,Eye Diseases; Melanosis; Cardiovascular Diseases
+Mesalazine,None reported,4.0,Colitis; Crohn Disease; Proctitis
+Testosterone,Has black box warning (see FDA label),4.0,Prostatic Neoplasms; HIV Wasting Syndrome; Weight Loss
+Simvastatin,None reported,2.0,
+Thiamine,None reported,4.0,"Kidney Failure, Chronic; Anemia; Thiamine Deficiency"
+Molsidomine,None reported,2.0,Cardiovascular Diseases
+Digitoxin,None reported,Unknown,
+Phenytoin,Has black box warning (see FDA label),4.0,Epilepsy; Seizures
+Cloxacillin,None reported,4.0,Osteomyelitis; Enterobacteriaceae Infections; Mastitis
+Olodaterol,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Emphysema; Bronchitis, Chronic"
+Nabumetone,Has black box warning (see FDA label),4.0,"Rheumatic Diseases; Arthritis, Rheumatoid; Osteoarthritis"
+Chlordiazepoxide,Has black box warning (see FDA label),4.0,
+Epirubicin,Has black box warning (see FDA label),4.0,"Carcinoma, Hepatocellular; Lymphoma, Large B-Cell, Diffuse; Neoplasms, Germ Cell and Embryonal"
+Azelaic_acid,None reported,4.0,"Rosacea; Acne Vulgaris; Dermatitis, Seborrheic"
+Benzatropine,None reported,Unknown,
+Niacin,None reported,4.0,HIV Infections; Psychotic Disorders; Lipid Metabolism Disorders
+Loxapine,Has black box warning (see FDA label),4.0,Schizophrenia
+Tetracaine,None reported,4.0,Anesthesia
+Troglitazone,None reported,4.0,Diabetes Mellitus; Sarcoma
+Bimatoprost,None reported,4.0,"Glaucoma, Open-Angle; Ocular Hypertension; Alopecia"
+Secnidazole,None reported,4.0,"Vaginosis, Bacterial; Vaginal Discharge; Trichomonas Infections"
+Orphenadrine,None reported,4.0,Low Back Pain
+Ofloxacin,Has black box warning (see FDA label),4.0,Hearing Loss; Otitis Media; Diabetic Foot
+Salsalate,None reported,2.0,Fever; Pain; Obesity
+Prazosin,None reported,4.0,Hypertension; Diabetes Mellitus
+Flucloxacillin,None reported,Unknown,
+Alogliptin,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Aminosalicylic_acid,None reported,4.0,"Colitis, Ulcerative; Crohn Disease; Osteomyelitis"
+Scopolamine,None reported,3.0,Pain; Infections; Motion Sickness
+Vecuronium,Has black box warning (see FDA label),4.0,
+Amiodarone,Has black box warning (see FDA label),4.0,"Tachycardia, Ventricular; Ventricular Fibrillation; Atrial Fibrillation"
+Acamprosate,None reported,4.0,"Cocaine-Related Disorders; Child Development Disorders, Pervasive; Autistic Disorder"
+Metolazone,Has black box warning (see FDA label),4.0,Cardiovascular Diseases; Heart Failure; Heart Failure
+Oxybenzone,None reported,4.0,Melanosis
+Phentolamine,None reported,4.0,"Cardiovascular Diseases; Prostatic Neoplasms, Castration-Resistant; Pheochromocytoma"
+Meloxicam,Has black box warning (see FDA label),4.0,"Pain; Spondylitis, Ankylosing; Rheumatic Diseases"
+Busulfan,Has black box warning (see FDA label),4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Brain Neoplasms; Sarcoma, Ewing"
+Arformoterol,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Emphysema; Bronchitis, Chronic"
+Temazepam,Has black box warning (see FDA label),4.0,"Sleep Initiation and Maintenance Disorders; Pulmonary Disease, Chronic Obstructive; Anxiety"
+Ornidazole,None reported,3.0,Rectal Neoplasms; Bacterial Infections; Colonic Neoplasms
+Isoniazid,Has black box warning (see FDA label),4.0,"Tuberculosis, Pulmonary; Diabetic Foot; HIV Infections"
+Glycine,None reported,4.0,Hypertension; Obsessive-Compulsive Disorder; Psychotic Disorders
+Metaxalone,None reported,4.0,
+Terazosin,None reported,4.0,Prostatic Hyperplasia; Lewy Body Disease
+Acetaminophen,None reported,Unknown,
+Acetylcysteine,None reported,2.0,Severe Acute Respiratory Syndrome; Neuroinflammatory Diseases; Amyotrophic Lateral Sclerosis
+Alprazolam,Has black box warning (see FDA label),4.0,"Panic Disorder; Anxiety; Stress Disorders, Post-Traumatic"
+Latanoprost,None reported,4.0,"Glaucoma, Open-Angle; Ocular Hypertension; Meniere Disease"
+Ethambutol,None reported,4.0,"Acquired Immunodeficiency Syndrome; Mycobacterium avium-intracellulare Infection; Tuberculosis, Pulmonary"
+Dapsone,None reported,4.0,Acne Vulgaris; Stroke; Malaria
+Nifedipine,None reported,4.0,Premature Birth; Hypertension; Cardiovascular Diseases
+Acetylsalicylic_acid,None reported,Unknown,
+ATP,None reported,Unknown,
+Sitagliptin,None reported,4.0,Diabetes Mellitus; Stroke; Myocardial Infarction
+Chlorobutanol,None reported,2.0,Nausea
+Tramadol,Has black box warning (see FDA label),4.0,Pain; Acute Pain; Chronic Pain
+Meperidine,Has black box warning (see FDA label),4.0,Pain; Hypotension; Acute Pain
+Levonorgestrel,None reported,4.0,Endometriosis; Hemorrhage; HIV Infections
+Ascorbic_acid,None reported,4.0,"Anemia, Iron-Deficiency; Diabetes Mellitus; Lymphoma, Non-Hodgkin"
+Fenofibrate,None reported,4.0,Lipid Metabolism Disorders; Cardiovascular Diseases; Hypercholesterolemia
+Tamoxifen,Has black box warning (see FDA label),4.0,Breast Neoplasms; Neoplasms; Breast Neoplasms
+Metronidazole,Has black box warning (see FDA label),4.0,"Vaginosis, Bacterial; Infections; Crohn Disease"
+Isotretinoin,None reported,-1.0,
+Zinc,Has black box warning (see FDA label),4.0,"Anemia; Anemia, Iron-Deficiency; Wounds and Injuries"
+Piroxicam,Has black box warning (see FDA label),4.0,"Osteoarthritis, Knee; Arthralgia; Eye Diseases"
+Repaglinide,None reported,4.0,Diabetes Mellitus; Hypertension; Atherosclerosis
+Cefuroxime,None reported,4.0,Infections; Osteomyelitis; Pneumonia
+Clindamycin,Has black box warning (see FDA label),4.0,Osteomyelitis; Acne Vulgaris; Infections
+Rosiglitazone,Has black box warning (see FDA label),4.0,"Diabetes Mellitus; Erectile Dysfunction; Glomerulosclerosis, Focal Segmental"
+Ketoprofen,Has black box warning (see FDA label),4.0,"Myalgia; Arthralgia; Osteoarthritis, Knee"
+Rofecoxib,None reported,Unknown,
+Calcipotriol,None reported,Unknown,
+Isosorbide_dinitrate,None reported,4.0,Cardiovascular Diseases; Heart Failure; Diabetic Foot
+Verapamil,None reported,4.0,Atrial Fibrillation; Cardiovascular Diseases; Heart Failure
+Dinoprostone,None reported,4.0,"Pain; Pregnancy; Abortion, Incomplete"
+Sulfacetamide,None reported,4.0,Osteomyelitis; Acne Vulgaris; Eye Infections
+Mepivacaine,None reported,4.0,"Pain; Osteoarthritis, Hip; Compartment Syndromes"
+Tazarotene,None reported,4.0,Acne Vulgaris; Psoriasis; Skin Diseases
+Guaifenesin,None reported,4.0,Common Cold; Cough; Sinusitis
+Folic_acid,None reported,4.0,"Anemia, Iron-Deficiency; Polycystic Ovary Syndrome; HIV Infections"
+Benzoyl_peroxide,None reported,4.0,"Acne Vulgaris; Infections; Keratosis, Actinic"
+Ibuprofen,Has black box warning (see FDA label),4.0,Fever; Myalgia; Pain
+Tetracycline,None reported,4.0,Lymphoma; Osteomyelitis; Duodenal Ulcer
+Neostigmine,None reported,4.0,"Obesity, Morbid; Pain; Hypospadias"
+Ergocalciferol,None reported,4.0,"Renal Insufficiency, Chronic; Breast Neoplasms; Hip Fractures"
+Pioglitazone,Has black box warning (see FDA label),4.0,"Metabolic Syndrome; Leukemia, Myeloid, Acute; Cardiovascular Diseases"
+Aminolevulinic_acid,None reported,4.0,Acne Vulgaris; Leukemia; Lymphoma
+Indomethacin,None reported,4.0,Inflammation
+Alendronic_acid,None reported,4.0,"Osteoporosis; Osteoporosis, Postmenopausal; Aortic Valve Stenosis"
+Ipratropium,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Status Asthmaticus"
+Ethanol,None reported,4.0,Infections; Neuroblastoma; Liver Cirrhosis
+Chloroxylenol,None reported,2.0,Inflammation
+Etodolac,Has black box warning (see FDA label),4.0,Rheumatic Diseases; Pain; Lecithin Cholesterol Acyltransferase Deficiency
+Dexpanthenol,None reported,4.0,Skin Ulcer; Skin Diseases; Eye Diseases
+Benzydamine,None reported,3.0,Stomatitis; Stomatitis
+Atropine,None reported,Unknown,
+Diclofenac,Has black box warning (see FDA label),4.0,"Eye Diseases; Osteoarthritis, Knee; Spondylitis, Ankylosing"
+Proparacaine,None reported,4.0,Pain
+Vitamin_A,None reported,4.0,Acne Vulgaris; Nasal Obstruction; Malaria
+Ketorolac,Has black box warning (see FDA label),4.0,Heart Diseases; Pain; Breast Neoplasms
+Bisacodyl,None reported,4.0,Constipation; Constipation
+Acarbose,None reported,Unknown,
+Tibolone,None reported,3.0,"Osteoporosis; Sexual Dysfunction, Physiological; Depressive Disorder, Major"
+Prilocaine,None reported,4.0,"Carcinoma, Squamous Cell; Keratosis, Actinic; Pregnancy"
+Methyl_salicylate,None reported,4.0,Myalgia; Arthritis; Bursitis
+Dexketoprofen,None reported,4.0,Rheumatic Diseases; Myalgia; Arthralgia
+Salbutamol,Has black box warning (see FDA label),4.0,"Pulmonary Disease, Chronic Obstructive; Heart Failure; Glycogen Storage Disease Type II"
+Balsalazide,None reported,4.0,"Colitis, Ulcerative; Inflammatory Bowel Diseases"
+Adapalene,None reported,4.0,Acne Vulgaris; Skin Diseases; Molluscum Contagiosum
+Salmeterol,Has black box warning (see FDA label),4.0,"Lung Diseases, Obstructive; Pulmonary Disease, Chronic Obstructive; Emphysema"
+Glyburide,None reported,4.0,"Diabetes Mellitus; Diabetes, Gestational; Angina, Stable"
+Cholecalciferol,None reported,4.0,Heart Failure; Hepatitis C; Tibial Fractures
+Nicotine,None reported,2.0,Tobacco Use Disorder
+Misoprostol,None reported,Unknown,
+Glipizide,None reported,4.0,"Diabetes Mellitus; Atherosclerosis; Renal Insufficiency, Chronic"
+Lidocaine,Has black box warning (see FDA label),4.0,"Osteoarthritis, Knee; Pain; Peripheral Nervous System Diseases"
+Glimepiride,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2; Hypertension"
+Beta_carotene,None reported,4.0,Crohn Disease; Myocardial Infarction; Macular Degeneration
+Metformin,Has black box warning (see FDA label),4.0,"Diabetes, Gestational; Weight Gain; Diabetes Mellitus"
+Oxybuprocaine,None reported,4.0,Pruritus
+Ropivacaine,None reported,4.0,Breast Neoplasms; Pain; Hypotension
+Hexetidine,None reported,2.0,Infections
+Fluticasone_propiona,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Lung Diseases, Obstructive; Nasal Obstruction"
+Progesterone,Has black box warning (see FDA label),4.0,Infertility; Premature Birth; Cocaine-Related Disorders
+Benzethonium,None reported,2.0,
+Benzocaine,None reported,3.0,Pruritus; Obesity; Eczema
+Mupirocin,None reported,4.0,Infections; Wounds and Injuries; Osteomyelitis
+Triclosan,None reported,4.0,Periodontitis; Mucositis; Gingivitis
+Polyvinyl_alcohol,None reported,1.0,Fatigue
+Thymol,None reported,2.0,Gingivitis; Gonorrhea; Tooth Diseases
+Propofol,None reported,4.0,"Leukemia; Obesity, Morbid; Pain"
+Glycerin,None reported,4.0,"Constipation; HIV Infections; Conjunctivitis, Allergic"
+Gliclazide,None reported,3.0,"Diabetes Mellitus; Epilepsy; Diabetes Mellitus, Type 2"
+Loteprednol_etabonat,None reported,4.0,"Eye Diseases; Dry Eye Syndromes; Conjunctivitis, Allergic"
+Rocuronium,None reported,4.0,Heart Arrest; Back Pain; Spinal Stenosis
+Povidone,None reported,4.0,"Blepharitis; Conjunctivitis, Viral; Inflammation"
+Stannous_fluoride,None reported,3.0,Tooth Diseases; Gingivitis; Dental Caries
+Cetylpyridinium,None reported,3.0,Sarcopenia; Gingivitis; Periodontal Diseases
+Articaine,None reported,4.0,
+Chlorhexidine,None reported,Unknown,
+Abacavir,Has black box warning (see FDA label),4.0,HIV Infections; Psoriasis; AIDS Dementia Complex
+Acebutolol,None reported,4.0,Cardiovascular Diseases; Hemangioma; Hypertension
+Aceclofenac,None reported,2.0,Rheumatic Diseases; Myalgia; Arthralgia
+Acetazolamide,Has black box warning (see FDA label),4.0,Kidney Diseases; Andersen Syndrome; Altitude Sickness
+Acetohexamide,None reported,4.0,Diabetes Mellitus; Cataract
+Acetohydroxamic_acid,None reported,4.0,"Urea Cycle Disorders, Inborn; Ornithine Carbamoyltransferase Deficiency Disease; Urinary Tract Infections"
+Acetophenazine,None reported,4.0,
+Acetylcarnitine,None reported,3.0,"Carcinoma, Non-Small-Cell Lung; Peripheral Nervous System Diseases; Shock, Septic"
+Acipimox,None reported,3.0,Metabolic Syndrome; Heart Failure; Bulimia Nervosa
+Acitretin,Has black box warning (see FDA label),4.0,Psoriasis; Melanoma; HIV Infections
+active,None reported,-1.0,
+Acyclovir,None reported,4.0,Herpes Genitalis; Herpes Labialis; Cytomegalovirus Infections
+Adefovir_dipivoxil,Has black box warning (see FDA label),4.0,"Hepatitis B, Chronic; Hepatitis B, Chronic; HIV Infections"
+Ademetionine,None reported,3.0,"Liver Cirrhosis, Biliary; Non-alcoholic Fatty Liver Disease; Depressive Disorder, Major"
+Adenosine_phosphate,None reported,Unknown,
+Agomelatine,None reported,4.0,Obsessive-Compulsive Disorder; Anxiety; Dementia
+Albendazole,None reported,4.0,"Infections; HIV Infections; Elephantiasis, Filarial"
+Alclofenac,None reported,4.0,Rheumatic Diseases
+Alcuronium,None reported,2.0,
+Alfacalcidol,None reported,3.0,"Osteoporosis; Muscular Diseases; Osteoporosis, Postmenopausal"
+Alfuzosin,None reported,4.0,Prostatic Hyperplasia; Kidney Calculi; Ureterolithiasis
+Alimemazine,None reported,4.0,Hypersensitivity
+Aliskiren,Has black box warning (see FDA label),4.0,"Cardiovascular Diseases; Hypertension; Glomerulonephritis, IGA"
+Alitretinoin,None reported,4.0,Neoplasms; Psoriasis; Eczema
+Allylestrenol,None reported,2.0,
+Almitrine,None reported,4.0,Respiratory Tract Diseases; Respiratory Insufficiency; Severe Acute Respiratory Syndrome
+Almotriptan,None reported,4.0,Migraine Disorders
+Alosetron,Has black box warning (see FDA label),4.0,Irritable Bowel Syndrome
+Alprostadil,None reported,-1.0,
+Altretamine,Has black box warning (see FDA label),4.0,Neoplasms; Lymphoma; Sarcoma
+Alverine,None reported,2.0,"Digestive System Diseases; Hypertension, Portal"
+Alvimopan,Has black box warning (see FDA label),4.0,Constipation; Urinary Bladder Neoplasms; Peritoneal Neoplasms
+Amantadine,None reported,4.0,Infections; Cocaine-Related Disorders; Hepatitis C
+Amcinonide,None reported,4.0,
+Amdinocillin,None reported,4.0,Bacterial Infections
+Amifampridine,None reported,4.0,"Myasthenia Gravis; Muscular Atrophy, Spinal; Lambert-Eaton Myasthenic Syndrome"
+Amikacin,Has black box warning (see FDA label),4.0,Meningitis; Infections; Urinary Tract Infections
+Amiloride,Has black box warning (see FDA label),4.0,Cardiovascular Diseases; Hypertension; Coronary Disease
+Amineptine,None reported,4.0,Depressive Disorder
+Aminocaproic_acid,None reported,4.0,Hemorrhage; Aortic Diseases; Rosacea
+Aminohippuric_acid,None reported,4.0,
+Aminophylline,None reported,4.0,"Lung Diseases, Obstructive; Hypertension, Pulmonary; Altitude Sickness"
+Amisulpride,None reported,4.0,Obsessive-Compulsive Disorder; Anxiety; Dementia
+Amitriptyline,Has black box warning (see FDA label),4.0,Pruritus; Peripheral Nervous System Diseases; Erythromelalgia
+Amobarbital,None reported,4.0,
+Amodiaquine,None reported,4.0,"Malaria; Malaria, Falciparum; Malaria, Vivax"
+Amorolfine,None reported,3.0,Onychomycosis
+Amoxicillin,None reported,-1.0,Infections; Pneumonia
+Amphetamine,Has black box warning (see FDA label),4.0,Cocaine-Related Disorders; Attention Deficit Disorder with Hyperactivity; Cognition
+Amphotericin_B,Has black box warning (see FDA label),4.0,"Leishmaniasis; Meningitis, Cryptococcal; Histoplasmosis"
+Ampicillin,None reported,4.0,"Endocarditis; Meningitis, Bacterial; HIV Infections"
+Anisindione,None reported,4.0,
+Antazoline,None reported,4.0,Nasal Obstruction; Hypersensitivity
+Antipyrine,None reported,3.0,Dysmenorrhea; Pain; Fever
+Apomorphine,None reported,4.0,Parkinson Disease; Erectile Dysfunction
+Aprepitant,None reported,Unknown,
+Aripiprazole,Has black box warning (see FDA label),4.0,Psychotic Disorders; Schizophrenia
+Aripiprazole_lauroxi,Has black box warning (see FDA label),4.0,Psychotic Disorders; Schizophrenia
+Artemether,None reported,4.0,"Neoplasms; Malaria; Malaria, Falciparum"
+Artemisinin,None reported,3.0,Malaria; Severe Acute Respiratory Syndrome; Schizophrenia
+Artenimol,None reported,3.0,"Malaria; Carcinoma, Non-Small-Cell Lung; Malaria, Falciparum"
+Artesunate,None reported,4.0,"Carcinoma, Hepatocellular; Malaria; Malaria, Falciparum"
+Asenapine,Has black box warning (see FDA label),4.0,Psychotic Disorders; Bipolar Disorder; Schizophrenia
+Atazanavir,None reported,4.0,HIV Infections; Infections; HIV Infections
+Atenolol,Has black box warning (see FDA label),4.0,Angina Pectoris; Hypertension; Myocardial Infarction
+Atosiban,None reported,4.0,Premature Birth; Endometriosis
+Atovaquone,None reported,4.0,"Pneumonia, Pneumocystis; Malaria; Carcinoma, Non-Small-Cell Lung"
+Atracurium,None reported,4.0,Neuromuscular Blockade
+Auranofin,Has black box warning (see FDA label),4.0,"Arthritis, Rheumatoid; Leukemia, Lymphocytic, Chronic, B-Cell; HIV Infections"
+Aurothioglucose,None reported,-1.0,Rheumatic Diseases
+Azathioprine,Has black box warning (see FDA label),4.0,"Myasthenia Gravis; Arthritis, Rheumatoid; Vasculitis"
+Azithromycin,None reported,Unknown,
+Azlocillin,None reported,4.0,
+Aztreonam,None reported,4.0,Pneumonia; Urinary Tract Infections; Pyelonephritis
+Bacampicillin,None reported,4.0,Osteomyelitis; Bacterial Infections
+Bacitracin,Has black box warning (see FDA label),4.0,Pneumonia; Infections; Osteomyelitis
+Baclofen,Has black box warning (see FDA label),4.0,Cocaine-Related Disorders; Tobacco Use Disorder; Substance Withdrawal Syndrome
+Beclomethasone_dipro,None reported,2.0,
+Benazepril,Has black box warning (see FDA label),4.0,Cardiovascular Diseases; Diabetes Mellitus; Hypertension
+Bendroflumethiazide,None reported,4.0,Cardiovascular Diseases; Hypertension
+Benserazide,None reported,3.0,Restless Legs Syndrome; Parkinson Disease
+Benziodarone,None reported,4.0,Cardiovascular Diseases
+Benznidazole,None reported,4.0,Chagas Disease; Trypanosomiasis; Leishmaniasis
+Benzoic_acid,None reported,Unknown,
+Benzonatate,Has black box warning (see FDA label),4.0,Cough
+Benzquinamide,None reported,4.0,
+Benzyl_alcohol,None reported,4.0,Ectoparasitic Infestations; Otitis Externa; Lice Infestations
+Benzyl_benzoate,None reported,4.0,Ectoparasitic Infestations
+Benzylpenicilloyl_po,None reported,Unknown,
+Bepotastine,None reported,4.0,"Rhinitis, Allergic, Seasonal; Conjunctivitis, Allergic; Rhinitis, Allergic, Perennial"
+Bergapten,None reported,3.0,"Dermatitis, Atopic; Psoriasis"
+beta_Sitosterol,None reported,Unknown,
+Betahistine,None reported,2.0,"Attention Deficit Disorder with Hyperactivity; Obesity; Depressive Disorder, Major"
+Betamethasone,None reported,2.0,
+Bezafibrate,None reported,Unknown,
+Biperiden,None reported,4.0,
+Bisoprolol,None reported,4.0,Cardiovascular Diseases; Hypertension; Lecithin Cholesterol Acyltransferase Deficiency
+Bretylium,None reported,4.0,
+Brimonidine,None reported,Unknown,
+Bromazepam,None reported,3.0,Anxiety; Dementia; Depressive Disorder
+Bromhexine,None reported,3.0,Malaria; Severe Acute Respiratory Syndrome
+Bromocriptine,None reported,Unknown,
+Bromodiphenhydramine,None reported,4.0,
+Brompheniramine,None reported,4.0,Cough; Common Cold; Hypersensitivity
+Budesonide,Has black box warning (see FDA label),4.0,"Rhinitis, Allergic, Seasonal; Pulmonary Disease, Chronic Obstructive; Colitis, Ulcerative"
+Buformin,None reported,4.0,Diabetes Mellitus
+Bumetanide,Has black box warning (see FDA label),4.0,Heart Failure; Kidney Diseases; Nephrotic Syndrome
+Buspirone,None reported,4.0,"Sexual Dysfunction, Physiological; Anxiety Disorders; Psychotic Disorders"
+Butabarbital,None reported,4.0,
+Butalbital,None reported,4.0,Migraine Disorders
+Butobarbital,None reported,-1.0,
+Butorphanol,Has black box warning (see FDA label),4.0,Pain; Anxiety
+Butriptyline,None reported,2.0,Depressive Disorder
+Butylscopolamine,None reported,3.0,Digestive System Diseases; Abdominal Pain
+Cabergoline,None reported,4.0,Infertility; Restless Legs Syndrome; Cocaine-Related Disorders
+Caffeine,None reported,4.0,Atrial Fibrillation; Cocaine-Related Disorders; Attention Deficit Disorder with Hyperactivity
+Calcitriol,None reported,Unknown,
+Camphor,None reported,3.0,Cardiovascular Diseases; Cough; Rectal Diseases
+Candesartan_cilexeti,None reported,3.0,Cardiovascular Diseases; Hypertension; Heart Failure
+Cannabidiol,None reported,4.0,Pain; Graft vs Host Disease; Anxiety
+Canrenone,None reported,4.0,Cardiovascular Diseases
+Cantharidin,None reported,4.0,"Arthritis, Rheumatoid; Inflammation; Molluscum Contagiosum"
+Carbamoylcholine,None reported,4.0,
+Carbidopa,None reported,4.0,"Dysautonomia, Familial; Fibromyalgia; Parkinson Disease, Secondary"
+Carbimazole,None reported,3.0,Thyrotoxicosis; Thyroid Diseases
+Carbocisteine,None reported,Unknown,
+Carprofen,None reported,4.0,
+Carteolol,None reported,4.0,"Glaucoma, Open-Angle"
+Carvedilol,None reported,4.0,Hypertension; Heart Failure; Myocardial Infarction
+Cefaclor,None reported,4.0,
+Cefapirin,None reported,4.0,Bacterial Infections
+Cefazolin,None reported,4.0,"Endocarditis; Prostatitis; Hernia, Inguinal"
+Cefepime,None reported,4.0,"Urinary Tract Infections; Shock, Septic; Osteomyelitis"
+Cefixime,None reported,4.0,Otitis Media; Infections; Neoplasms
+Cefmetazole,None reported,4.0,Osteomyelitis; Colorectal Neoplasms; Bacterial Infections
+Cefonicid,None reported,4.0,Osteomyelitis; Bacterial Infections
+Cefoperazone,None reported,4.0,Osteomyelitis
+Cefotetan,None reported,4.0,Osteomyelitis; Bacterial Infections; Cholecystitis
+Cefoxitin,Has black box warning (see FDA label),4.0,Infections; Pneumonia
+Cefpirome,None reported,-1.0,
+Cefpodoxime,None reported,2.0,Bacterial Infections
+Ceftazidime,Has black box warning (see FDA label),4.0,Urinary Tract Infections; Pyelonephritis; Pneumonia
+Ceftibuten,None reported,4.0,Pyelonephritis; Osteomyelitis; Bacterial Infections
+Ceftriaxone,None reported,4.0,Infections; Neoplasms; Urinary Tract Infections
+Terconazole,None reported,4.0,"Candidiasis, Vulvovaginal; Vaginitis"
+Delafloxacin,Has black box warning (see FDA label),4.0,"Gonorrhea; Liver Diseases; Pneumonia, Bacterial"
+Pivampicillin,None reported,2.0,Bacterial Infections
+Topiramate,None reported,4.0,Cocaine-Related Disorders; Epilepsy; Alcohol Drinking
+Fluticasone_furoate,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Lung Diseases, Obstructive; Nasal Obstruction"
+Cinacalcet,None reported,4.0,"Hyperparathyroidism, Secondary; Renal Insufficiency, Chronic; Memory Disorders"
+Dantron,None reported,4.0,Constipation
+Trimethadione,None reported,4.0,Epilepsy
+Chlorothiazide,None reported,4.0,Hypertension; Nephrotic Syndrome; Heart Failure
+Flibanserin,Has black box warning (see FDA label),4.0,"Prostatic Neoplasms; Sexual Dysfunctions, Psychological; Sexual Dysfunctions, Psychological"
+Delamanid,None reported,Unknown,
+Idoxuridine,None reported,Unknown,
+Cinchocaine,None reported,4.0,Pruritus; Hemorrhoids; Sunburn
+Chlorphentermine,None reported,4.0,
+Haloprogin,None reported,4.0,
+Tolazamide,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Tetrabenazine,Has black box warning (see FDA label),4.0,Tourette Syndrome; Movement Disorders; Huntington Disease
+Methotrimeprazine,None reported,-1.0,
+Sulfamethoxazole,None reported,4.0,Infections; Neoplasms; Idiopathic Pulmonary Fibrosis
+Methyclothiazide,None reported,4.0,Cardiovascular Diseases
+Lofexidine,None reported,4.0,Cocaine-Related Disorders; Substance-Related Disorders; Heroin Dependence
+Thioridazine,Has black box warning (see FDA label),4.0,
+Cyclandelate,None reported,2.0,Cardiovascular Diseases
+Estradiol_cypionate,Has black box warning (see FDA label),4.0,
+Naproxen,None reported,Unknown,
+Leucovorin,None reported,4.0,Colorectal Neoplasms; Osteosarcoma; Stomach Neoplasms
+Dyclonine,None reported,4.0,
+Prochlorperazine,Has black box warning (see FDA label),4.0,
+Zonisamide,None reported,4.0,Epilepsy; Feeding and Eating Disorders; Essential Tremor
+Sofosbuvir,Has black box warning (see FDA label),4.0,"Hepatitis C; Hepatitis C, Chronic; Infections"
+Doxapram,None reported,4.0,Panic Disorder; Respiratory Tract Diseases
+Norgestimate,None reported,4.0,HIV Infections; Osteoporosis; Acne Vulgaris
+Chlorzoxazone,None reported,4.0,
+Eplerenone,None reported,4.0,"Cardiomyopathies; Renal Insufficiency, Chronic; Diabetic Nephropathies"
+Cycloserine,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Obsessive-Compulsive Disorder; Cocaine-Related Disorders"
+Tienilic_acid,None reported,4.0,Cardiovascular Diseases
+Rescinnamine,None reported,4.0,Hypertension
+Enoximone,None reported,3.0,Cardiovascular Diseases; Heart Failure; Coronary Disease
+Pefloxacin,None reported,-1.0,
+Promethazine,Has black box warning (see FDA label),4.0,Crohn Disease; Pain; Anxiety
+Norethynodrel,None reported,4.0,
+Flufenamic_acid,None reported,2.0,Rheumatic Diseases
+Granisetron,None reported,4.0,Nausea; Neoplasms; Nausea
+Levamlodipine,None reported,4.0,Hypertension; Cardiovascular Diseases
+Edrophonium,None reported,4.0,"Hypotension, Orthostatic; Orthostatic Intolerance"
+Valaciclovir,None reported,4.0,"Virus Diseases; Leukemia, Lymphocytic, Chronic, B-Cell; Cytomegalovirus Infections"
+Trichlormethiazide,None reported,4.0,Cardiovascular Diseases
+Fosinopril,Has black box warning (see FDA label),4.0,Hypertension; Heart Failure
+Zalcitabine,Has black box warning (see FDA label),4.0,HIV Infections; Virus Diseases
+Ibandronate,None reported,4.0,"Osteoporosis; Osteoporosis, Postmenopausal; Pain"
+Sulfabenzamide,None reported,4.0,
+Moxidectin,None reported,4.0,Infections; Onchocerciasis; Strongyloidiasis
+Metoclopramide,Has black box warning (see FDA label),4.0,Postoperative Nausea and Vomiting; Vomiting; Postoperative Nausea and Vomiting
+Duloxetine,Has black box warning (see FDA label),4.0,"Stress Disorders, Post-Traumatic; Diabetic Neuropathies; Pain"
+Phenformin,None reported,4.0,Diabetes Mellitus; Melanoma
+Sparteine,None reported,4.0,
+Spirapril,None reported,4.0,
+Ledipasvir,None reported,4.0,"Infections; Hepatitis C; Hepatitis C, Chronic"
+Dihydrostreptomycin,None reported,4.0,Eye Infections
+Cyclofenil,None reported,4.0,
+omacetaxine mepesuccinate,None reported,4.0,"Neoplasms; Leukemia; Leukemia, Myeloid, Acute"
+telotristat ethyl,None reported,4.0,Liver Diseases; Carcinoid Heart Disease; Malignant Carcinoid Syndrome
+tetrabromo-2-benzotriazole,None reported,Unknown,
+Triethylenetetramine,None reported,4.0,"Melanoma; Cardiomyopathy, Hypertrophic; Hepatolenticular Degeneration"
+sulfamethoxypyridazine,None reported,4.0,Bacterial Infections
+Imatinib,None reported,4.0,"Precursor Cell Lymphoblastic Leukemia-Lymphoma; Leukemia, Myeloid, Acute; Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+carglumic acid,None reported,4.0,Hyperammonemia; Hyperammonemia; Propionic Acidemia
+phenethyl isothiocyanate,None reported,Unknown,
+Paliperidone,Has black box warning (see FDA label),4.0,Psychotic Disorders; Schizophrenia
+arsenic trioxide,Has black box warning (see FDA label),4.0,"Leukemia; Leukemia, Myelogenous, Chronic, BCR-ABL Positive; Carcinoma, Hepatocellular"
+obeticholic acid,None reported,Unknown,
+Daclatasvir,Has black box warning (see FDA label),4.0,"Hepatitis C, Chronic"
+Trioxsalen,None reported,4.0,Psoriasis
+ci-1040,None reported,2.0,"Pancreatic Neoplasms; Carcinoma, Non-Small-Cell Lung; Pancreatic Neoplasms"
+Glibornuride,None reported,2.0,Diabetes Mellitus
+perphenazine enanthate,Has black box warning (see FDA label),4.0,Prostatic Neoplasms; HIV Wasting Syndrome; Weight Loss
+tienilic acid,None reported,4.0,Cardiovascular Diseases
+cobalt chloride,None reported,4.0,
+norethindrone enanthate,Has black box warning (see FDA label),4.0,Prostatic Neoplasms; HIV Wasting Syndrome; Weight Loss
+Ribavirin,Has black box warning (see FDA label),4.0,"Leukemia, Myeloid, Acute; Hepatitis C, Chronic; Hepatitis C"
+Nalfurafine,None reported,4.0,
+niagen,None reported,Unknown,
+Pemoline,Has black box warning (see FDA label),4.0,Attention Deficit Disorder with Hyperactivity; Cocaine-Related Disorders
+dabigatran etexilate,Has black box warning (see FDA label),4.0,Thrombosis; Venous Thromboembolism; Venous Thrombosis
+phenyl aminosalicylate,None reported,4.0,
+Ximelagatran,None reported,4.0,Thrombosis; Atrial Fibrillation; Thromboembolism
+dichloroacetic acid,None reported,3.0,Glioblastoma; Neoplasms; Head and Neck Neoplasms
+lanatoside c,None reported,2.0,Cardiovascular Diseases
+Xanomeline,None reported,4.0,Schizophrenia
+chlormadinone acetate,None reported,Unknown,
+Tiopronin,None reported,4.0,Subarachnoid Hemorrhage; Chemical and Drug Induced Liver Injury; Cystinuria
+Gallamine,None reported,4.0,
+Miglustat,None reported,4.0,HIV Infections; Gaucher Disease; Glycogen Storage Disease Type II
+beta-sitosterol,None reported,Unknown,
+Glymidine,None reported,2.0,Diabetes Mellitus
+Pentostatin,Has black box warning (see FDA label),4.0,"Neoplasms; Leukemia, Lymphocytic, Chronic, B-Cell; Leukemia"
+Deflazacort,None reported,4.0,"Liver Diseases; Kidney Diseases; Aspergillosis, Allergic Bronchopulmonary"
+Deslanoside,None reported,4.0,Cardiovascular Diseases
+Metildigoxin,None reported,2.0,Cardiovascular Diseases
+Phentermine,None reported,4.0,Obesity; Substance-Related Disorders; Diabetes Mellitus
+Pregabalin,None reported,4.0,Fibromyalgia; Peripheral Nervous System Diseases; Pain
+Suprofen,None reported,4.0,Rheumatic Diseases
+Tiagabine,None reported,4.0,"Epilepsy; Sleep Apnea, Obstructive; Cocaine-Related Disorders"
+Doripenem,None reported,4.0,Urinary Tract Infections; Pyelonephritis; Pneumonia
+Clobutinol,None reported,4.0,Cough
+Proscillaridin,None reported,2.0,Cardiovascular Diseases
+Dicyclomine,None reported,4.0,Digestive System Diseases
+Dienestrol,None reported,4.0,
+Lactitol,None reported,4.0,Constipation; Constipation
+Promazine,None reported,4.0,
+Quinacrine,None reported,-1.0,
+Halcinonide,None reported,Unknown,
+Proguanil,None reported,4.0,"Malaria; Malaria, Falciparum; Gastroesophageal Reflux"
+Hydroflumethiazide,None reported,4.0,Cardiovascular Diseases
+Testolactone,None reported,4.0,"Puberty, Precocious"
+Levallorphan,None reported,4.0,
+Clioquinol,None reported,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell; Hodgkin Disease; Myelodysplastic Syndromes"
+Spectinomycin,None reported,4.0,
+Indapamide,None reported,4.0,Hypertension; Cardiovascular Diseases; Heart Failure
+Pimozide,None reported,4.0,Psychotic Disorders; Tourette Syndrome; Anxiety
+Prucalopride,None reported,4.0,Constipation; Constipation
+Hydroxychloroquine,None reported,4.0,"Sarcoidosis, Pulmonary; Leukemia, Lymphocytic, Chronic, B-Cell; Carcinoma, Hepatocellular"
+Profenamine,None reported,4.0,Parkinson Disease
+Dosulepin,None reported,-1.0,
+Clidinium,None reported,4.0,
+Istradefylline,None reported,Unknown,
+Milnacipran,Has black box warning (see FDA label),4.0,Fibromyalgia; Back Pain
+Rifampicin,None reported,4.0,"Tuberculosis, Pulmonary; Melanoma; Carcinoma, Non-Small-Cell Lung"
+Ifenprodil,None reported,2.0,Cardiovascular Diseases; Idiopathic Pulmonary Fibrosis; Severe Acute Respiratory Syndrome
+Ouabain,None reported,Unknown,
+Floxuridine,None reported,Unknown,
+Dolasetron,None reported,4.0,Postoperative Nausea and Vomiting; Postoperative Nausea and Vomiting; Neoplasms
+Nitazoxanide,None reported,4.0,Crohn Disease; Hepatitis C; Diarrhea
+Delavirdine,None reported,4.0,HIV Infections; Virus Diseases
+Cyclopenthiazide,None reported,2.0,Cardiovascular Diseases
+Moxisylyte,None reported,4.0,Cardiovascular Diseases; Erectile Dysfunction
+Silodosin,None reported,4.0,"Prostatic Hyperplasia; Prostatitis; Prostatic Neoplasms, Castration-Resistant"
+Racecadotril,None reported,3.0,"Diarrhea; Diarrhea, Infantile"
+Darunavir,None reported,4.0,HIV Infections; Infections; HIV Infections
+Tolterodine,None reported,4.0,"Urinary Bladder, Overactive; Urinary Incontinence, Urge"
+Sulfamethazine,None reported,4.0,Bacterial Infections
+Levorphanol,Has black box warning (see FDA label),4.0,
+Darifenacin,None reported,4.0,"Urinary Incontinence, Urge; Urinary Bladder, Overactive"
+Moexipril,Has black box warning (see FDA label),4.0,Hypertension
+Fenbufen,None reported,2.0,Rheumatic Diseases
+Mazindol,None reported,4.0,Obesity; Attention Deficit Disorder with Hyperactivity; Cocaine-Related Disorders
+Mebendazole,None reported,4.0,Anemia; Necatoriasis; Helminthiasis
+Flurazepam,Has black box warning (see FDA label),4.0,Sleep Initiation and Maintenance Disorders
+Meropenem,None reported,4.0,Infections; Pneumonia; Urinary Tract Infections
+Praziquantel,None reported,4.0,Cysticercosis; Schistosomiasis haematobia; Schistosomiasis
+Disopyramide,Has black box warning (see FDA label),4.0,"Atrial Fibrillation; Heart Failure; Arrhythmias, Cardiac"
+Mestranol,None reported,4.0,
+Lacidipine,None reported,3.0,"Cardiovascular Diseases; Hypertension; Angina, Stable"
+Telithromycin,Has black box warning (see FDA label),4.0,Infections; Pneumonia; Otitis Media
+Fructose,None reported,-1.0,Cardiovascular Diseases
+Zidovudine,None reported,Unknown,
+Succimer,None reported,4.0,Autistic Disorder; Asperger Syndrome; Hepatolenticular Degeneration
+Cephalexin,None reported,4.0,
+Nizatidine,None reported,4.0,Peptic Ulcer; Gastroesophageal Reflux; Gastritis
+Isoxsuprine,None reported,2.0,Cardiovascular Diseases
+Clarithromycin,None reported,Unknown,
+Tocofersolan,None reported,4.0,Malaria; Short Bowel Syndrome; Hypobetalipoproteinemias
+Flurandrenolide,None reported,4.0,"Skin Diseases; Kidney Failure, Chronic"
+Sulfanilamide,None reported,Unknown,
+Valdecoxib,Has black box warning (see FDA label),4.0,Pain; Rheumatic Diseases; Pancreatitis
+Pentamidine,None reported,Unknown,
+Mexiletine,Has black box warning (see FDA label),4.0,"Irritable Bowel Syndrome; Arrhythmias, Cardiac; Myocardial Infarction"
+Methotrexate,None reported,Unknown,
+Ranitidine,None reported,4.0,HIV Infections; Duodenal Ulcer; Stomach Ulcer
+Mebeverine,None reported,-1.0,
+Nateglinide,None reported,4.0,"Diabetes Mellitus; Diabetes Mellitus, Type 2"
+Clofibrate,None reported,4.0,Cardiovascular Diseases; Myocardial Infarction; Myocardial Ischemia
+Nalmefene,None reported,4.0,Gambling; Smoking Cessation; Opioid-Related Disorders
+Quinapril,None reported,Unknown,
+Tacrine,None reported,4.0,Cocaine-Related Disorders; Dementia
+Terbinafine,None reported,4.0,Tinea Pedis; Onychomycosis
+Clemastine,None reported,4.0,"Rhinitis, Allergic, Seasonal; Urticaria; Rhinitis, Allergic"
+Ethylestrenol,None reported,4.0,
+Naltrexone,Has black box warning (see FDA label),4.0,Pain; Opioid-Related Disorders; Feeding and Eating Disorders
+Nedocromil,None reported,4.0,"Eye Manifestations; Nasal Obstruction; Lung Diseases, Obstructive"
+Nystatin,None reported,4.0,HIV Infections; Myelodysplastic Syndromes; Infections
+Prednicarbate,None reported,4.0,Psoriasis; Tinea Pedis; Eczema
+Fluphenazine,Has black box warning (see FDA label),4.0,Psoriasis
+Clonazepam,Has black box warning (see FDA label),4.0,Neuralgia; Epilepsy; Pain
+Vilanterol,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Asthma"
+Naloxone,None reported,Unknown,
+Entecavir,Has black box warning (see FDA label),4.0,
+Clonidine,Has black box warning (see FDA label),4.0,Pain; Attention Deficit Disorder with Hyperactivity; Hypertension
+Flavoxate,None reported,4.0,Urinary Incontinence; Polyuria
+Pravastatin,None reported,4.0,"Carcinoma, Hepatocellular; Carcinoma; Cardiovascular Diseases"
+Phenobarbital,Has black box warning (see FDA label),4.0,Seizures; Epilepsy
+Sulfametopyrazine,None reported,3.0,Malaria; Bacterial Infections
+Oxazepam,None reported,Unknown,
+Lamivudine,Has black box warning (see FDA label),4.0,"Hepatitis B, Chronic; Infections; HIV Infections"
+Oxytetracycline,None reported,4.0,Bacterial Infections; Osteomyelitis; Acne Vulgaris
+Theophylline,None reported,4.0,
+Furazolidone,None reported,4.0,
+Nitrendipine,None reported,Unknown,
+Efavirenz,None reported,4.0,HIV Infections; Infections; HIV Infections
+Reserpine,None reported,4.0,"Hypertension; Hypertension, Pulmonary; Cocaine-Related Disorders"
+Fentanyl,Has black box warning (see FDA label),4.0,"Pain; Pain, Postoperative"
+Dextroamphetamine,Has black box warning (see FDA label),4.0,Attention Deficit Disorder with Hyperactivity; Narcolepsy
+Hydrochlorothiazide,None reported,4.0,"Hypertension; Cardiovascular Diseases; Kidney Failure, Chronic"
+Kanamycin,None reported,4.0,"Osteomyelitis; Tuberculosis, Multidrug-Resistant; Bacterial Infections"
+Prednisolone,None reported,4.0,"Idiopathic Pulmonary Fibrosis; Pulmonary Disease, Chronic Obstructive; Multiple Sclerosis, Relapsing-Remitting"
+Sulfadiazine,None reported,4.0,"Osteomyelitis; Toxoplasmosis, Cerebral; Toxoplasmosis, Congenital"
+Mannitol,None reported,4.0,Wounds and Injuries; Stroke; Bronchiectasis
+Emtricitabine,Has black box warning (see FDA label),4.0,"HIV Infections; HIV Infections; Hepatitis B, Chronic"
+Codeine,None reported,4.0,
+Colistin,None reported,4.0,Infections; Osteomyelitis; Pneumonia
+Metamizole,None reported,4.0,
+Levothyroxine,Has black box warning (see FDA label),4.0,Hypothyroidism; Thyroid Neoplasms; Pain
+Fluorometholone,None reported,4.0,Acne Vulgaris; Eye Diseases; Dry Eye Syndromes
+Pseudoephedrine,None reported,4.0,"Rhinitis, Allergic, Seasonal; Hypotension, Orthostatic; Rhinitis, Allergic, Seasonal"
+Lactulose,None reported,4.0,"Constipation; Dermatitis, Atopic; Premature Birth"
+Pyrithione,None reported,4.0,
+Pilocarpine,None reported,-1.0,
+Mecamylamine,None reported,4.0,Depressive Disorder
+Pyridoxine,None reported,4.0,Movement Disorders; Epilepsy; Lymphoma
+Glucosamine,None reported,1.0,
+Piperacillin,None reported,4.0,Infections; Osteomyelitis; Cellulitis
+Nefopam,None reported,3.0,Pain; Fever; Stomach Neoplasms
+Esmolol,None reported,4.0,"Diabetic Foot; Shock, Septic; Ovarian Cysts"
+Polyethylene_glycol,None reported,3.0,Constipation; Irritable Bowel Syndrome; Mucocutaneous Lymph Node Syndrome
+Lysergic_acid_diethy,None reported,Unknown,
+Risedronic_acid,None reported,Unknown,
+Ethyl_chloride,None reported,1.0,Tendon Entrapment
+Medroxyprogesterone_,None reported,Unknown,
+Mometasone_furoate,None reported,4.0,"Rhinitis, Allergic, Seasonal; Hypertrophy; Lung Diseases, Obstructive"
+Etidronic_acid,None reported,4.0,Bone Diseases; Pseudoxanthoma Elasticum
+Ioxaglic_acid,None reported,4.0,
+Prednisolone_acetate,None reported,4.0,"Idiopathic Pulmonary Fibrosis; Pulmonary Disease, Chronic Obstructive; Multiple Sclerosis, Relapsing-Remitting"
+Methylprednisolone_a,None reported,4.0,"Multiple Sclerosis, Relapsing-Remitting; Meniere Disease; Acne Vulgaris"
+Homatropine_methylbr,None reported,4.0,Digestive System Diseases
+Methscopolamine_brom,None reported,4.0,
+Clobetasol_propionat,None reported,3.0,Vulvar Lichen Sclerosus; Psoriasis; Stevens-Johnson Syndrome
+Iopanoic_acid,None reported,4.0,
+Estradiol_benzoate,None reported,Unknown,
+Estradiol_valerate,Has black box warning (see FDA label),4.0,Infertility; Atrophic Vaginitis; Menorrhagia
+Estradiol_acetate,Has black box warning (see FDA label),4.0,Infertility; Atrophic Vaginitis; Menorrhagia
+Insulin_human,Has black box warning (see FDA label),4.0,Diabetes Mellitus; Hyperglycemia; Tobacco Use Disorder
+Megestrol_acetate,None reported,4.0,"Pulmonary Disease, Chronic Obstructive; Endometrial Neoplasms; Neoplasms"
+Dexamethasone_acetat,None reported,2.0,
+Etacrynic_acid,None reported,4.0,Cardiovascular Diseases; Urinary Bladder Neoplasms; Heart Failure
+Cortisone_acetate,None reported,4.0,"Eye Diseases; Angioedema; Dermatitis, Atopic"
+Methylprednisolone_h,None reported,2.0,
+Pyridostigmine,Has black box warning (see FDA label),4.0,"Hypotension; Heart Failure; Hypotension, Orthostatic"
+Droxidopa,Has black box warning (see FDA label),4.0,"Hypotension; Hypotension, Orthostatic; Fibromyalgia"
+Propranolol,Has black box warning (see FDA label),4.0,Hypertension; Melanoma; Prostatic Neoplasms
+Terbutaline,Has black box warning (see FDA label),4.0,"Pulmonary Disease, Chronic Obstructive; Bronchitis; Asthma"
+Fenoterol,None reported,4.0,"Lung Diseases, Obstructive; Pulmonary Disease, Chronic Obstructive; Heart Failure"
+Glycine_betaine,None reported,4.0,"Obesity; Hepatitis C; Hepatitis C, Chronic"
+Chenodeoxycholic_acid,Has black box warning (see FDA label),4.0,"Irritable Bowel Syndrome; Paraplegia; Xanthomatosis, Cerebrotendinous"
+Montelukast,None reported,Unknown,"Eosinophilic Esophagitis; Rhinitis, Allergic, Seasonal; Rhinitis, Allergic, Seasonal"
+Ursodeoxycholic_acid,None reported,Unknown,
+Obeticholic_acid,None reported,Unknown,
+Cystine,None reported,2.0,
+Methionine,None reported,Unknown,
+Sertraline,Has black box warning (see FDA label),4.0,"Myelodysplastic Syndromes; Leukemia, Myeloid, Acute; Glioblastoma"
+Cromoglicic_acid,None reported,4.0,
+Pranlukast,None reported,Unknown,
+Treprostinil,None reported,4.0,"Reperfusion Injury; Hypertension, Pulmonary; Pulmonary Disease, Chronic Obstructive"
+Fluoxetine,Has black box warning (see FDA label),4.0,Panic Disorder; Depressive Disorder; Obsessive-Compulsive Disorder
+Paroxetine,Has black box warning (see FDA label),4.0,"Panic Disorder; Anxiety; Depressive Disorder, Major"
+Cholic_Acid,None reported,4.0,Fatty Liver; Liver Diseases; Smith-Lemli-Opitz Syndrome
